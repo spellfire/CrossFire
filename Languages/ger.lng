@@ -1,0 +1,77 @@
+# Translation file made by: Dan Curtiss
+# Deutsche Übersetzung von: Thomas Grois www.moddi.com
+
+Language {Deutsch}
+
+# Common Phrases
+# Standard Begriffe
+allCardSets      {Alle Karten Sets}
+attributes       {Attribute}
+avatar           {Avatar}
+by               {von}
+blueline         {Blueline}
+card             {Karte}
+cards            {Karten}
+cardSet          {Karten Set}
+cardSets         {Karten Sets}
+cardType         {Typ}
+cardTypes        {Typen}
+chase            {Chase}
+chaseCards       {Chase Karten}
+configure        {Einstellungen}
+clear            {Löschen}
+close            {Beenden}
+csv              {Comma Separated (CSV)}
+default          {Standard}
+help             {Hilfe}
+html             {Web Seite (HTML)}
+level            {Stufe}
+levels           {Stufen}
+name             {Name}
+no               {Nein}
+number           {Nummer}
+quit             {Beenden}
+rarity           {Häufigkeit}
+remove           {Entfernen}
+rtf              {Rich Text (RTF)}
+saveAs           {Speichern unter}
+search           {Suchen}
+set              {Set}
+title            {Titel}
+text             {Text}
+type             {Typ}
+txt              {Text (TXT)}
+usableCards      {Verwendbare Karten}
+view             {Ansicht}
+world            {Welt}
+yes              {Ja}
+
+# Ultra Searcher Phrases
+# Ultra Searcher Begriffe
+ss,cardWorlds    {Karten Sets}
+ss,clearAll      {Auswahl löschen}
+ss,lastDigit     {Letzte Zahl}
+ss,matchAll      {Alle möglichen}
+ss,searchError   {Fehler}
+ss,seMessage     {Kenne ich nicht!}
+ss,searchResults {Suchergebnisse}
+ss,selectAll     {Alle auswählen}
+ss,windowName    {Ultra Searcher}
+ss,about         {Über Ultra Searcher}
+
+# Card Viewer Phrases
+# Card Viewer Begriffe
+cv,allInfo       {Alle Informationen}
+cv,windowName    {Card Viewer}
+cv,about         {Über Card Viewer}
+cv,standard      {Standard}
+cv,standardAlt   {Standard abwechselnd}
+cv,plain         {Einfach}
+cv,basicList     {Normale Ansicht}
+cv,framedList    {Rahmen-Ansicht}
+cv,cardErrorMsg  {Keine Karte gewählt oder falsche Karten ID.}
+cv,cardError     {Fehler beim Öffnen}
+cv,exportSet     {Set exportieren}
+cv,copyCardText  {Kartentext kopieren}
+cv,viewInNew     {Öffnen in neuem Fenster}
+cv,genMessage    {Erstellt mit CrossFire!!}

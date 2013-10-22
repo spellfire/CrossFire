@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+<TITLE>DeckIt! Menu Bar</TITLE>
+</HEAD>
+
+<BODY>
+<CENTER>
+<H1>DeckIt! Menu Bar</H1>
+</CENTER>
+<HR>
+<H3>Deck</H3>
+<UL>
+<DL>
+<P><DT><B>New</B>
+<DD>Creates a new deck.
+First checks if current deck needs to be saved.
+The new deck's size will be the default size set in the <A HREF="di_options.html">options</A>.
+<P><DT><B>Open</B>
+<DD>Loads a saved deck. First checks if current deck needs to be saved.
+<P><DT><B>Save</B>
+<DD>Saves the current deck.
+<P><DT><B>Save As</B>
+<DD>Saves the deck with a new filename.
+<P><DT><B>Information</B>
+<DD>Allows for entering the author's name and email address and the title for the deck. This information is optional.
+<P><DT><B>Format</B>
+<DD>Changes the deck format of the current deck.
+When changing to a smaller deck size, the card quantities and champion levels will be checked to make sure they are within the new limits.
+<P><DT><B>Multiple Cards</B>
+<DD>Changes if multiple cards are allowed.
+When changing to not allowing multiple, the deck will be checked to make sure there are no multiples except for those that are always allowed.
+(3rd Edition War Party, etc.)
+<P><DT><B>Import</B>
+<DD>Imports decks from other Spellfire utilities.
+<OL>
+<LI>Spellfire Database 2.x
+</OL>
+<P><DT><B>Export</B>
+<DD>Exports the deck to other Spellfire utilities.
+<OL>
+<LI>Spellfire Database 2.x
+</OL>
+<P><DT><B>Print</B>
+<DD>
+Unfortunately, Tcl/Tk does not provide support for printing, but a form of printing is available.
+<P>
+All platforms: Can create a text file of the deck.
+Card text can optionally be printed; see <A HREF="di_options.html">options</A>.
+<P>
+On Windows and Macintosh: Creates a rich text document of the deck.
+Can be printed with WordPad or Word on Windows and Word on Macintosh.
+<P>
+On Unix/Linux: Prints the deck to the default printer or to standard out.
+<P><DT><B>Exit</B>
+<DD>Closes the deck editor. First checks if current deck needs to be saved.
+</DL>
+</UL>
+<HR>
+<H3>Card</H3>
+<UL>
+These sub-menus may be "torn-off" by clicking on the line of dashes at the top to create a floating menu.
+<DL>
+<P><DT><B>Set</B>
+<DD>Selects a card set. This can also be changed using the comma (,) or period (.) keys.
+<P><DT><B>Type</B>
+<DD>Selects a card type.
+</DL>
+</UL>
+<HR>
+<H3>Utilities</H3>
+<UL>
+<DL>
+<P><DT><B>Deck Differ</B>
+<DD><A HREF="di_differ.html">Deck Differ</A> compares two decks to find cards that are in both decks or cards that are only in one deck.
+<P><DT><B>Deck Status</B>
+<DD><A HREF="di_status.html">Deck Status</A> shows current quantity and limit of each card type.
+<P><DT><B>Ultra Searcher</B> 
+<DD><A HREF="se_main.html">Ultra Searcher</A> allows for very precise card searches.
+<P><DT><B>Configure</B>
+<DD>Change DeckIt! <A HREF="di_options.html">options</A>.
+</DL>
+</UL>
+<HR>
+<H3>Help</H3>
+<UL>
+<DL>
+<P><DT><B>Help</B>
+<DD>Starts the hypertext help system.
+<P><DT><B>About</B>
+<DD>Brief tribute to the author of DeckIt!
+</DL>
+</UL>
+<HR>
+</BODY>
+</HTML>

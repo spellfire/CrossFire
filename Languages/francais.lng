@@ -1,0 +1,73 @@
+# Translation file made by: Frédérick Pogu
+
+Language {Français}
+
+# Common Phrases
+allCardSets      {Toutes les séries}
+attributes       {Attributs}
+avatar           {Avatar}
+by               {par}
+blueline         {Blueline}
+card             {Carte}
+cards            {Cartes}
+cardSet          {Série}
+cardSets         {Séries}
+cardType         {Type de carte}
+cardTypes        {Type de cartes}
+chase            {Chase}
+chaseCards       {Cartes Chase}
+configure        {Configurer}
+clear            {Effacer}
+close            {Fermer}
+csv              {virgule de séparation (CSV)}
+default          {par défaut}
+help             {Aide}
+html             {Page web (HTML)}
+level            {Niveau}
+levels           {Niveaux}
+name             {Nom}
+no               {Non}
+number           {Numéro}
+quit             {Quitter}
+rarity           {Rareté}
+remove           {Enlever}
+rtf              {Texte enrichi (RTF)}
+saveAs           {Sauvegarder sous}
+search           {Rechercher}
+set              {Série (set)}
+title            {Titre}
+text             {Texte}
+type             {Type}
+txt              {Fichier texte (TXT)}
+usableCards      {Carte utilisable}
+view             {Visualiser}
+world            {Monde}
+yes              {Oui}
+
+# Ultra Searcher Phrases
+ss,cardWorlds    {Monde de la carte}
+ss,clearAll      {Supprimer tout}
+ss,lastDigit     {Dernier chiffre}
+ss,matchAll      {qui correspond au critère}
+ss,searchError   {Erreur de recherche}
+ss,seMessage     {Je ne comprends pas l'expression régulière du texte de la carte.}
+ss,searchResults {Resultats de la recherche}
+ss,selectAll     {Sélectionner tout}
+ss,windowName    {Ultra Searcher}
+ss,about         {à propos de Ultra Searcher}
+
+# Card Viewer Phrases
+cv,allInfo       {Toutes les infos}
+cv,windowName    {Visualiseur de cartes}
+cv,about         {A propos du Visualiseur de Cartes}
+cv,standard      {Standards}
+cv,standardAlt   {Standards Alternatif}
+cv,plain         {Brut}
+cv,basicList     {Liste simple}
+cv,framedList    {Liste encadrée}
+cv,cardErrorMsg  {aucune carte sélectionnéée ou N°didentification erroné.}
+cv,cardError     {Erreur de visualisation}
+cv,exportSet     {Exporter}
+cv,copyCardText  {Copier le texte de la carte}
+cv,viewInNew     {Visualiser dans une nouvelle fenêtre}
+cv,genMessage    {Généré par CrossFire}

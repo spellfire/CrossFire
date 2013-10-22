@@ -1,0 +1,96 @@
+set tempDeckFormatTitle {Unlimited Cards}
+set tempDeckFormatTotal {
+    All       0  999
+    Avatars   0    9
+    Champions 0  999
+    Chase     0  999
+    Levels    0 9999 
+}
+set tempDeckFormatLimits {
+    Ally             0  999 99
+    Artifact         0  999 99
+    {Blood Ability}  0  999 99
+    {Cleric Spell}   0  999 99
+    Cleric           0  999 99
+    Dungeon          0  999 99
+    Event            0  999 99
+    Hero             0  999 99
+    Holding          0  999 99
+    {Magical Item}   0  999 99
+    Monster          0  999 99
+    {Psionic Power}  0  999 99
+    Psionicist       0  999 99
+    Realm            0  999 99
+    Regent           0  999 99
+    Rule             0  999 99
+    Thief            0  999 99
+    {Thief Ability}  0  999 99
+    {Unarmed Combat} 0  999 99
+    {Wizard Spell}   0  999 99
+    Wizard           0  999 99
+}
+set tempDeckFormatRarity {
+    M  0 999 99
+    C  0 999 99
+    UC 0 999 99
+    R  0 999 99
+    VR 0 999 99
+    S  0 999 99
+    V  0 999 99
+}
+set tempDeckFormatWorld {
+    0 0 999 99
+    7 0 999 99
+    6 0 999 99
+    4 0 999 99
+    5 0 999 99
+    1 0 999 99
+    2 0 999 99
+    3 0 999 99
+    8 0 999 99
+    9 0 999 99
+    FAN 0 999 99
+}
+set tempDeckFormatSet {
+    NO  0 999 99
+    1st 0 999 99
+    2nd 0 999 99
+    3rd 0 999 99
+    4th 0 999 99
+    PR  0 999 99
+    RL  0 999 99
+    DL  0 999 99
+    FR  0 999 99
+    AR  0 999 99
+    PO  0 999 99
+    UD  0 999 99
+    RR  0 999 99
+    BR  0 999 99
+    DR  0 999 99
+    NS  0 999 99
+    DU  0 999 99
+    IQ  0 999 99
+    MI  0 999 99
+    CH  0 999 99
+    CQ  0 999 99
+    FRN 0 999 99
+    DE  0 999 99
+    IT  0 999 99
+    POR 0 999 99
+    SP  0 999 99
+    FAN 0 999 99
+}
+set tempDeckFormatDigit {
+    0 0 999 99
+    1 0 999 99
+    2 0 999 99
+    3 0 999 99
+    4 0 999 99
+    5 0 999 99
+    6 0 999 99
+    7 0 999 99
+    8 0 999 99
+    9 0 999 99
+}
+set tempDeckFormatBanned {
+}

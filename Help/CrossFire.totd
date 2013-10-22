@@ -1,0 +1,24 @@
+Program CrossFire
+
+Chapter !
+Tip {You can change which icons are displayed on the main window with Configure CrossFire.}
+Tip {You can create your own Spellfire cards with the Fan Set Editor.}
+Tip {In Chat, the number in paranthesis by a name in the Ally list is the number of minutes that player has been idle.}
+Tip {In Chat, if you right-click in the text area, you can see a list of all icons you can add to your message.}
+Tip {In Chat, the name next to a Realm is the name of the person who created that Realm.}
+Tip {You can change which action list you use with Configure CrossFire}
+
+Chapter Chat
+Tip {The number in paranthesis by a name in the Ally list is the number of minutes that player has been idle.}
+Tip {If you right-click in the text area, you can see a list of all icons you can add to your message.}
+Tip {The name next to a Realm is the name of the person who created that Realm.}
+Tip {You can change which action list you use with Configure CrossFire.}
+Tip {If a user has an (A) by their name, they are a CrossFire Avatar, a.k.a. Admin.}
+Tip {If a user has an (SU) by their name, they are a CrossFire Super User.}
+Tip {If a user has an (J) by their name, they are a CrossFire Tournament Judge.}
+Tip {To view a user's profile, right-click on their name, and select Profile...}
+Tip {To view an offline user's profile, in the text area, tyep /finger USER (replace USER with the name of the person whose profile you wish to see).}
+Tip {To create your profile, click on Commands -> Edit Profile...}
+Tip {You can define custom colors for anyone. Just right-click on their name and select Set Colors...}
+
+#ChapterFile SwapShop.totd

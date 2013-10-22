@@ -1,0 +1,106 @@
+set tempDeckFormatTitle {55 Card World War Greyhawk}
+set tempDeckFormatInfo {From Rules 2.0:
+World War! (Intermediate)
+
+This tournament forces all decks to be constructed using realms, holdings, artifacts, and champions from one specific world (player’s choice). Items that are “generic,” such as an artifact that’s usable by any champion, are not permitted. The world logos must be the same.
+
+The different worlds are: AD&D®, Birthright®, Dark Sun®, Dragonlance®, Forgotten Realms®, Greyhawk®, and Ravenloft®.}
+set tempDeckFormatTotal {
+    All         55  55
+    Avatars      0   1
+    Chase        0  55
+    Champions    1  20
+    Levels       0  90
+}
+set tempDeckFormatLimits {
+    Ally               0  55   1
+    Artifact           0  10   1
+    {Blood Ability}    0  55   1
+    Cleric             0  20   1
+    {Cleric Spell}     0  55   1
+    Dungeon            0   1   1
+    Event              0  10   1
+    Hero               0  20   1
+    Holding            0   6   1
+    {Magical Item}     0  12   1
+    Monster            0  20   1
+    Psionicist         0  20   1
+    {Psionic Power}    0  55   1
+    Realm              8  15   1
+    Regent             0  20   1
+    Rule               0   3   1
+    Thief              0  20   1
+    {Thief Ability}    0  55   1
+    {Unarmed Combat}   0  55   1
+    Wizard             0  20   1
+    {Wizard Spell}     0  55   1
+}
+set tempDeckFormatRarity {
+    M    0  55   1
+    C    0  55   1
+    UC   0  55   1
+    R    0  55   1
+    VR   0  55   1
+    S    0  55   1
+    V    0   0   1
+}
+set tempDeckFormatWorld {
+    0     0  55   1
+    7     0   0   1
+    6     0   0   1
+    4     0   0   1
+    5     0   0   1
+    1     0   0   1
+    2     0  55   1
+    3     0   0   1
+    8     0   0   1
+    9     0   0   1
+    FAN   0   0   1
+}
+set tempDeckFormatSet {
+    NO    0  55   1
+    1st   0  55   1
+    2nd   0  55   1
+    3rd   0  55   1
+    4th   0  55   1
+    PR    0  55   1
+    RL    0  55   1
+    DL    0  55   1
+    FR    0  55   1
+    AR    0  55   1
+    PO    0  55   1
+    UD    0  55   1
+    RR    0  55   1
+    BR    0  55   1
+    DR    0  55   1
+    NS    0  55   1
+    DU    0  55   1
+    IQ    0  55   1
+    MI    0  55   1
+    CH    0  55   1
+    CQ    0  55   1
+    FRN   0   0   1
+    DE    0   0   1
+    IT    0   0   1
+    POR   0   0   1
+    SP    0   0   1
+    FAN   0   0   1
+}
+set tempDeckFormatDigit {
+    0   0  55   1
+    1   0  55   1
+    2   0  55   1
+    3   0  55   1
+    4   0  55   1
+    5   0  55   1
+    6   0  55   1
+    7   0  55   1
+    8   0  55   1
+    9   0  55   1
+}
+set tempDeckFormatBanned {
+    
+}
+set tempDeckFormatAllowed {
+    type:15 type:21 
+}

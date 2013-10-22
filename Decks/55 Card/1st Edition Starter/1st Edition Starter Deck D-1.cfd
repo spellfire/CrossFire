@@ -1,0 +1,22 @@
+set tempDeckSize 551ES
+set tempInInventory false
+set tempAuthorName Bliss
+set tempAuthorEmail ataririot666@hotmail.com
+set tempNotes {Actual Cards from factory shrinkwrapped 1st Edition Box set. 6 sets (A-F), 2 decks consisting of 55 cards each.}
+set tempDeckTitle {1st Edition Starter Deck D-1}
+set tempCheckInv No
+set tempInventory {}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {1st 306} {1st 309} {1st 315} {1st 152} {1st  54} {1st 105} {1st 353}
+   {1st 318} {1st 358} {1st 303} {1st 307} {1st 241} {1st 331} {1st 193}
+   {1st  78} {1st  74} {1st 188} {1st 374} {1st 363} {1st 328} {1st 394}
+   {1st 209} {1st 272} {1st 336} {1st 209} {1st 272} {1st 336} {1st 274}
+   {1st 232} {1st 386} {1st 118} {1st  19} {1st 119} {1st  14} {1st 222}
+   {1st   8} {1st 131} {1st  27} {1st 117} {1st  22} {1st  35} {1st  34}
+   {1st  38} {1st  39} {1st  40} {1st  37} {1st  64} {1st  58} {1st  71}
+   {1st  77} {1st 111} {1st  48} {1st  67} {1st 142} {1st 164}
+}
+set tempAltCards {
+  
+}

@@ -1,0 +1,96 @@
+set tempDeckFormatTitle {35 Card Jan's Lunch Time Deck}
+set tempDeckFormatTotal {
+    All       35 35
+    Avatars    0  0
+    Champions  1 20
+    Chase      0 35
+    Levels     0 60
+}
+set tempDeckFormatLimits {
+    Ally             0 35 1
+    Artifact         0 10 1
+    {Blood Ability}  0 35 1
+    {Cleric Spell}   0 35 1
+    Cleric           0 20 1
+    Dungeon          0  0 1
+    Event            0  2 1
+    Hero             0 20 1
+    Holding          0  6 1
+    {Magical Item}   0 12 1
+    Monster          0 20 1
+    {Psionic Power}  0 35 1
+    Psionicist       0 20 1
+    Realm            4  8 1
+    Regent           0 20 1
+    Rule             0  3 1
+    Thief            0 20 1
+    {Thief Ability}  0 35 1
+    {Unarmed Combat} 0 35 1
+    {Wizard Spell}   0 35 1
+    Wizard           0 20 1
+}
+set tempDeckFormatRarity {
+    M  0 35 1
+    C  0 35 1
+    UC 0 35 1
+    R  0 35 1
+    VR 0 35 1
+    S  0 35 1
+    V  0 35 1
+}
+set tempDeckFormatWorld {
+    0 0 35 1
+    7 0 35 1
+    6 0 35 1
+    4 0 35 1
+    5 0 35 1
+    1 0 35 1
+    2 0 35 1
+    3 0 35 1
+    8 0 35 1
+    9 0 35 1
+    FAN 0 35 1
+}
+set tempDeckFormatSet {
+    NO  0 35 1
+    1st 0 35 1
+    2nd 0 35 1
+    3rd 0 35 1
+    4th 0 35 1
+    PR  0 35 1
+    RL  0 35 1
+    DL  0 35 1
+    FR  0 35 1
+    AR  0 35 1
+    PO  0 35 1
+    UD  0 35 1
+    RR  0 35 1
+    BR  0 35 1
+    DR  0 35 1
+    NS  0 35 1
+    DU  0 35 1
+    IQ  0 35 1
+    MI  0 35 1
+    CH  0 35 1
+    CQ  0 35 1
+    FRN 0 35 1
+    DE  0 35 1
+    IT  0 35 1
+    POR 0 35 1
+    SP  0 35 1
+    FAN 0 35 1
+}
+set tempDeckFormatDigit {
+    0 0 35 1
+    1 0 35 1
+    2 0 35 1
+    3 0 35 1
+    4 0 35 1
+    5 0 35 1
+    6 0 35 1
+    7 0 35 1
+    8 0 35 1
+    9 0 35 1
+}
+set tempDeckFormatBanned {
+}

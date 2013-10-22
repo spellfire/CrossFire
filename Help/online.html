@@ -1,0 +1,356 @@
+<HTML>
+<HEAD>
+<TITLE>CrossFire's Online Spellfire</TITLE>
+</HEAD>
+
+<BODY>
+<CENTER>
+<H1>CrossFire's Online Spellfire</H1>
+</CENTER>
+<HR><P>
+CrossFire's Online Spellfire is designed to allow people to play Spellfire over the internet.
+Since Spellfire is the greatest multi-player CCG in the world, it seemed silly not to support mulit-player...so it does!
+Online play was the original goal of CrossFire and about 3 years later it is a reality.
+Of course, this does NOT mark the end of CrossFire's development!
+Online play and CrossFire in general will grow, improve, and change as it is used.
+This has been a long and fun-filled journey for the developers of CrossFire and we hope you enjoy playing online.
+<P>
+<CENTER><B>Long Live Spellfire!!!</B></CENTER>
+<P><HR>
+<H3>Starting a Game</H3>
+Before you start a new game <B>create a seperate realm</B> on chat to play in!
+The online play tends to be a little "noisy" with all the messages that are sent.
+Then follow these steps to get started:
+<OL>
+<LI>From the Chat interface, select Game -&gt; Spellfire.
+<LI>Click on the name of your opponent in the Ally list in Chat.
+<LI>Select Game -&gt; Add Opponent on the Online Spellfire Game window.
+<LI>Repeat steps 2 and 3 for each additional opponent.
+<LI>Wait for all the other players to perform the same steps on their computer.
+<LI>After all players are ready, open your deck with Game -&gt; Open Deck.
+<LI>Select Deck -&gt; Cut to cut the deck to determine who starts.
+</OL>
+
+A note about Fan Cards.
+Yes, you can use fan cards in online play, but you must be sure everyone else has the set installed.
+Upon opening your deck, it will be scanned for fan cards and alert the others if you are using them.
+
+<P>
+If you open your deck before everyone is ready, wait until they are ready and then select Game -&gt; Restart.
+This will clear your window and reload your deck.
+<P>
+You can add a player after a game has begun if so desired.
+To add someone, do steps 2 and 3 above for them.
+Have the new player do the above start up.
+Finally, each person who has been in the game needs to do Game -&gt; Refresh Opponents.
+This will update your formation for all of your opponents.
+
+<P><HR>
+<H3>The Online Play Interfaces</H3>
+There are numerous windows for online play.
+While each window will fit on a 640x480 screen, you will probably want a higher resolution.
+<OL>
+<LI>Your formation with optional auto-update card viewer.
+<LI>A formation for each opponent (with optional auto-update card viewer).
+<LI>The Panes of War.
+<LI>The Game Notes.
+</OL>
+The Panes of War is the area for combat to occur.
+It is also the general purpose card play area.
+Use if for playing events and other cards that you play, but do not really belong in your area.
+You can also transfer cards to another player by dropping the card on their war pane.
+This is for cards like Fear that are placed on an opponent's champion.
+In the rare event that an opponent is disconnected while a transfer is occuring, you can redo the transfer.
+Cards that are transfered are sent out of play for the transfering player.
+Double-click the Out of Play area and a list of cards that are out of play will be shown.
+The card can be brought back into play by dragging it from that box.
+A very noticeable message will be displayed when doing this.
+
+<P>
+The Game Notes window is for placing messages that others need to remember throughout the game.
+The can be added with Note -&gt; New and removed with Note -&gt; Remove -&gt; title.
+You can only remove the notes you post.
+
+<P>
+If you want to have more than one card displayed per window, you can right-click on any card to create a seperate window of that card.
+This is especially helpful during combat.
+
+<P><HR>
+<H3>Game Play</H3>
+<B>Game Discussions</B><BR>
+<BLOCKQUOTE>
+During a game, you are bound to need to discuss the game.
+This is done, of course, with the chat window.
+</BLOCKQUOTE>
+
+<P>
+<B>Drawing Cards</B><BR>
+<BLOCKQUOTE>
+Click on the "Draw" button below the hand box or press Ctrl-D to draw a card.
+The auto-update card viewer will display the drawn card and it will be highlighted in the hand display.
+To draw mutliple cards quickly, right-click on the draw button for a pop-up menu.
+This menu allows you to draw up to 8 cards at once.
+A message of how many cards you drew will be sent to the chat window.
+If your deck is empty, the discards will be shuffled and sent to the deck.
+If you have no discards either, you will not be able to draw any cards.
+</BLOCKQUOTE>
+
+<P>
+<B>Moving Cards</B><BR>
+<BLOCKQUOTE>
+Moving cards has been implemented with a simple drag-and-drop style interface.
+Drag-and-drop is not a part of Tcl/Tk, so I had to create my own.
+It is possible that one could attempt to move cards too fast for it to keep up.
+If this happens it will politely ask you to slow down and the card may be in an unexpected location.
+The cursor will change to a target when the drag has started and change back to the pointer when finished.
+If you do not want to drag a card, be sure to wait until the cursor changes back before moving.
+Cards moving when you do not expect them to is a symptom of you not waiting the 0.1 seconds it needs!
+<P>
+You can basically drag a card from anywhere to anywhere else.
+To move a champion and his attachments, drag the champion (the attachments will follow automatically).
+Some simple checking is implemented such as you can only place a realm on a realm target.
+The view of your formation on your opponents' computers will automatically update as you move cards.
+
+<P>
+<B>Realms</B>: Realms are dropped onto the bisque colored label, not the box below.
+The box below is for realm attachments, such as holdings, several artifacts, etc.
+
+<P>
+<B>Pool</B>: Adding to the pool is slightly different than the other boxes.
+To add a champion, simply drag and drop it in the pool box.
+To attach a card to another, drop the attachment onto the card to attach it to.
+Attachments will be indented below the card.
+You can detach a card by dragging that card to somewhere else.
+If you need to place a non-champion in the pool but NOT attached to a champion, drop it on some blank space in the box or onto another card's attachment.
+This is for cards such as Obsidian Man acting as a champion.
+
+<P>
+<B>Panes of War</B>: The Panes of War behaves the same as the pool.
+
+<P>
+<B>Out of Play</B>: As it states, dropping a card here will permanently remove that card from play.
+The removed card will be displayed in the chat window.
+
+<P>
+<B>Deck</B>: This target allows you to place a card on the top of the deck (draw pile).
+Used for returning your spoils to the deck, etc.
+</BLOCKQUOTE>
+
+<P>
+<B>Raze / Unraze Realms</B><BR>
+<BLOCKQUOTE>
+You can raze a realm by right-clicking on the realm name and selecting raze.
+Once razed, the pop-up menu will change to unraze so you can unraze it later.
+</BLOCKQUOTE>
+
+<P>
+<B>Phase Buttons</B>
+<BLOCKQUOTE>
+The phase buttons are included on the interface for your convenience.
+They do not change the operation of online play in any way.
+These will probably be used more in the future especially if we have an online tournament.
+</BLOCKQUOTE>
+
+<P>
+<B>Finishing Your Turn</B><BR>
+<BLOCKQUOTE>
+Press the "Knock" button or press Ctrl-K to knock and signal the end of your turn.
+Be sure to always use the Knock button to end your turn!!
+</BLOCKQUOTE>
+
+<P>
+<B>Just In Case...</B><BR>
+<BLOCKQUOTE>
+Unfortunately, someone could get disconnected from the internet while playing a game.
+If this happens, everyone should stop moving cards!
+After the dropped player returns to the game (the windows will stay), every player should do Game -&gt; Refresh Opponents.
+</BLOCKQUOTE>
+
+<HR>
+<H3>Special Features</H3>
+<BLOCKQUOTE>
+We all know Spellfire cards can do a myriad of spiffy things. <B>Some</B> of
+these have been implemented with online play.
+These features are on the menu bar.
+More will be added over time.
+</BLOCKQUOTE>
+
+<P>
+<B>2 Draw Mulligan</B><BR>
+<BLOCKQUOTE>
+You can declare a mulligan with Game -&gt; Mulligan.
+Note that your hand will be displayed to your opponents.
+</BLOCKQUOTE>
+
+<P>
+<B>Discarding Events</B><BR>
+<BLOCKQUOTE>
+Events normally go to the Abyss when discarded.
+However, there are cards that allow them to go to the discard pile.
+You can change this with the Game -&gt; Events Go To Discard toggle.
+Events will go to the discard pile when this is checked.
+A message will be displayed for your opponents when this is changed.
+</BLOCKQUOTE>
+
+<P>
+<B>Discard a Random Card From an Opponent's Hand</B><BR>
+<BLOCKQUOTE>
+Good ol' Hettman!
+This actually has to be done by the person who is losing the card.
+Inform the player that they must discard a card and they will do this with Hand -&gt; Discard Random Card.
+The shortcut for this is Ctrl-C.
+The discarded card will be displayed in the chat window.
+</BLOCKQUOTE>
+
+<P>
+<B>Discard All Cards in the Hand</B><BR>
+<BLOCKQUOTE>
+Don't you just love Transformation!!
+You can discard your entire hand with Hand -&gt; Discard Entire Hand.
+The cards you had in your hand will be displayed in the chat window.
+</BLOCKQUOTE>
+
+<P>
+<B>Show Me Your Hand!</B><BR>
+<BLOCKQUOTE>
+You always gotta be able to see someone's hand, right?
+Inform the player whose hand you want to view and they can show it to you with Hand -&gt; Show To Opponent.
+The shortcut for this is Ctrl-S.
+The player showing the hand will receive a dialog to pick the opponent to show the hand to.
+A message will be sent to the chat window to tell everyone that a hand is being shown.
+You may politely discard one of more cards from their hand my selecting the cards and pressing Discard.
+This is for cards like Cold Cup of Calamity.
+</BLOCKQUOTE>
+
+<P>
+<B>Hide That Pool</B><BR>
+<BLOCKQUOTE>
+Isn't everyone's favorite champion Cryic in all decks?
+You can hide your pool for your opponents with Pool -&gt; Hidden.
+This is a toggle to hide or reveal your pool.
+Your opponents will see the same number of cards in your pool as before, but they will all be "Spellfire".
+</BLOCKQUOTE>
+
+<P>
+<B>Target That Hidden Pool</B><BR>
+<BLOCKQUOTE>
+I Wish that one of them there cards would go away!
+Since the pool is hidden, you need a method to target a random card.
+This is done with Pool -&gt; Pick Random Card.
+The selected card will be revealed only to the player with the hidden pool.
+This is because the targeted card could be immune to the effects.
+A message will be displayed in the chat window when a random card is picked.
+</BLOCKQUOTE>
+
+<P>
+<B>Target That Hidden Champion</B><BR>
+<BLOCKQUOTE>
+Gotta kill that Cryic, so I can play mine!
+Since the pool is hidden, you need a method to fairly target a champion.
+This is done with Pool -&gt; Pick Random Champion.
+The selected champion will be revealed only to the player with the hidden pool.
+This is because the targeted champion could be immune to the effects.
+A message will be displayed in the chat window when a random champion is picked.
+</BLOCKQUOTE>
+
+<P>
+<B>Con Game</B><BR>
+<BLOCKQUOTE>
+We all hate it, including me.
+But, some people insist on putting this card in their deck.
+Play the Con Game card to the Panes of War and announce who is receiving it.
+That player must invoke Pool -&gt; Con Game.
+The list of cards the player must discard will be displayed in the chat window.
+It is up to them to move the cards to the discards and move the remaining cards to the hand or leave in the pool.
+</BLOCKQUOTE>
+
+<P>
+<B>Draw a Card, Noting the Last Digit</B><BR>
+<BLOCKQUOTE>
+Can't live without Spellfire's random number generator!
+This action is Hand -&gt; Draw & Discard.
+The number you drew will be displayed in the chat window for everyone to see.
+</BLOCKQUOTE>
+
+<P>
+<B>Drawing Spoils of Victory</B><BR>
+<BLOCKQUOTE>
+Draws a spoils of victory card.
+The card will go to the hand and the card viewer will display it.
+A special message will be displayed when drawing spoils.
+</BLOCKQUOTE>
+
+<P>
+<B>Drawing Dungeon Spoils</B><BR>
+<BLOCKQUOTE>
+Since Dungeon Spoils are special, there is a menu option for it under Deck.
+The drawn card will be sent to the Panes of War for all to see.
+Be sure to move it where you want it after everyone sees it.
+If it is a realm it will automatically go to the Abyss.
+</BLOCKQUOTE>
+
+<P>
+<B>Shuffle the Deck</B><BR>
+<BLOCKQUOTE>
+For those times you just gotta shuffle, select Deck -&gt; Shuffle.
+Of course, a message will be sent to the chat window that you have done this.
+</BLOCKQUOTE>
+
+<P>
+<B>Look At Cards In Your Opponent's Draw Pile</B><BR>
+<BLOCKQUOTE>
+Ren would be happy...he can once again use his crystal ball!
+To view an opponents hand, tell them which cards you are permitted to view.
+That player will select Deck -&gt; Show to Opponent.
+You can select cards and send them to the discard pile, abyss, or bottom of the draw.
+</BLOCKQUOTE>
+
+<P>
+<B>Look At Such and Such Cards in Draw Pile</B><BR>
+<BLOCKQUOTE>
+Those nosey Hags of Tepest are always looking around in the draw pile...
+To look at all of part of your draw pile, select Deck -&gt; View.
+The shortcut for this is Ctrl-V.
+You can select all the cards or just a couple from the top or the bottom.
+The draw pile will be displayed with options to send a selected card to the top or bottom of the draw pile or to the hand.
+And, of course, so no one cheats, a message will be sent to the chat window.
+</BLOCKQUOTE>
+
+<P>
+<B>Bag of Beans</B><BR>
+<BLOCKQUOTE>
+So, you use the Bag of Beans card, huh?
+Well, you can use it's power with the Deck -&gt; Bag of Beans menu item.
+If the card is a realm, it will automatically be sent to the discard pile.
+Naturally, a message will be displayed when using this card's power.
+</BLOCKQUOTE>
+
+<P>
+<B>Recycling the Discards</B><BR>
+<BLOCKQUOTE>
+Out of cards?  Need some more?
+You can recycle your discards back into the draw pile with Discards -&gt; Recycle.
+The shortcut for this is Ctrl-R.
+The draw pile will be shuffled.
+A message will be displayed in the chat window telling everyone you are environmentally friendly.
+</BLOCKQUOTE>
+
+<P>
+<B>Send the Discard to the Top of the Deck</B><BR>
+<BLOCKQUOTE>
+Some cards let you shuffle your discards and place them on top of the draw pile.
+You will find this option at Discards -&gt; To Top of Deck.
+</BLOCKQUOTE>
+
+<P>
+<B>Gimme My Spells Back!</B><BR>
+<BLOCKQUOTE>
+Ah yes, Recall...
+To recall all of your spells, select Discards -&gt; Recall Spells.
+All cleric and wizards spells will be returned to the draw pile and reshuffled.
+As expected, a message will be sent to the chat window when you do this.
+</BLOCKQUOTE>
+
+<HR>
+</BODY>
+</HTML>

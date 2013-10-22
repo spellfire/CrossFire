@@ -1,0 +1,48 @@
+# This file contains actions for the online chat module.
+#
+# Format is:
+#
+#   action_word {Menu title} {text to display for the action}
+#
+# add $who in the text to be replaced by the name of the person
+# the action is targeted at.
+#
+# Example:
+# #boot StEvil => <DCurtiss lands a Boot to the Head on StEvil!>
+
+back      {Back!}             {is now back!}
+backstab  {Backstab}          {Backstabs $who}
+bbl       {Be Back Later}     {will be back later...}
+bless     {Bless}             {has been Blessed}
+block     {Block}             {Blocks $who}
+boot      {Boot to the Head}  {lands a Boot to the Head on $who!}
+brb       {Be Right Back}     {will be right back...}
+calm      {Calm}              {Calms...}
+cat       {Cataclysm}         {Cataclysms $who!!!}
+ccc       {Cold Cup}          {offers $who a drink from the Cold Cup of Calamity...}
+charm     {Charm}             {Charms $who}
+cloud     {Stinking Cloud}    {releases a Stinking Cloud on $who}
+con       {Con Game}          {Con Games $who}
+conceal   {Concealed Weapon}  {is carrying a Concealed Weapon}
+dirty     {Fighting Dirty}    {really pisses off $who by Fighting Dirty}
+dis       {Disintegrate}      {casts Disintegrate at $who!}
+dispel    {Dispel}            {casts Dispel...}
+eject     {Eject}             {ejects $who from the game!}
+enslave   {Enslaved}          {has Enslaved $who!}
+fireball  {Fireball}          {throws a Fireball at $who}
+fly       {Flying Kick}       {nails $who with a Flying Kick!}
+fort      {Fortification}     {has built a Fortification}
+headlock  {Headlock}          {puts $who in a Headlock}
+hide      {Hide in Shadows}   {attempts to Hide in Shadows}
+jab       {Jab}               {Jabs $who}
+kidney    {Kidney Punch}      {cripples $who with a Kidney Punch}
+lightning {Lightning Bolt}    {zaps $who with a Lightning Bolt}
+missile   {Magic Missile}     {fires a Magic Missile at $who}
+ouch      {Ouch}              {screams OUCH!!!}
+peace     {Peace}             {declares Peace}
+tar       {Tarrasque}         {unleashes the Tarrasque amongst the realms!}
+vercf     {Version}           {is using CrossFire version $cfVersion}
+weasel    {Weasel Attack}     {Weasel Attacks $who}
+web       {Web}               {catches $who in a Web}
+wish      {Wish}              {tries to Wish $who away...}
+thrice    {Drink, Please}     {orders a Thrice Hearty Cup of Balder the Red from the bar :P }

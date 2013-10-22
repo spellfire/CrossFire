@@ -1,0 +1,114 @@
+set tempDeckFormatTitle {Old School through Dragonlance}
+set tempDeckFormatInfo {http://spellfire.net/forums/topic.asp?TOPIC_ID=894
+
+DanTheMan:
+A few of us on Crossfire chat believe it's high time to take a trip back to September 1994, to the old school Spellfire days; the days of Strahd, Dagaronzie, Flesh Golems, Lovely Colleen, Lloth, and Ring of Reversion!
+
+Introducing the "Old School Format": Make a deck using cards in existence only before the Forgotten realms booster came out. That would be: 1st ed, 2nd ed, Ravenloft, and Dragonlance. 1st ed and Dragon Lance chase and 401-420 are allowed (not 421-440 because they came out after Forgotten Realms). No other boosters and editions nor Promo #3 (Promo 1 and 2 are okay) are allowed. All current bluelines are in effect.
+
+For now, lets play with Rules 2.0, since that's simple and already programed into Crossfire, etc. We can fine tune things later.
+
+As far as rules go, I'm not too sure. What does everyone think? I think we should keep the 'one of each unique card only per deck' rule at least. Maybe we should just use modern 2.0 rules, since we are all so used to them by now. But what about card type deck construction limits? Same as now, or how it was back then?
+
+Meet and play in the real world or on Crossfire! I'm sure playing this format is bound to bring up old memories and good times. Give it a shot: We'll be waiting for you on Crossfire Chat!}
+set tempDeckFormatTotal {
+    All        110 110
+    Avatars      0   2
+    Chase        0 110
+    Champions    1  40
+    Levels       0 180
+}
+set tempDeckFormatLimits {
+    Ally               0 110   1
+    Artifact           0  15   1
+    {Blood Ability}    0 110   1
+    Cleric             0  40   1
+    {Cleric Spell}     0 110   1
+    Dungeon            0   1   1
+    Event              0  17   1
+    Hero               0  40   1
+    Holding            0  10   1
+    {Magical Item}     0  20   1
+    Monster            0  40   1
+    Psionicist         0  40   1
+    {Psionic Power}    0 110   1
+    Realm             15  30   1
+    Regent             0  40   1
+    Rule               0   5   1
+    Thief              0  40   1
+    {Thief Ability}    0 110   1
+    {Unarmed Combat}   0 110   1
+    Wizard             0  40   1
+    {Wizard Spell}     0 110   1
+}
+set tempDeckFormatRarity {
+    M    0 110   1
+    C    0 110   1
+    UC   0 110   1
+    R    0 110   1
+    VR   0 110   1
+    S    0 110   1
+    V    0 110   1
+}
+set tempDeckFormatWorld {
+    0     0 110   1
+    7     0 110   1
+    6     0 110   1
+    4     0 110   1
+    5     0 110   1
+    1     0 110   1
+    2     0 110   1
+    3     0 110   1
+    8     0 110   1
+    9     0 110   1
+    FAN   0 110   1
+}
+set tempDeckFormatSet {
+    NO    0 110   1
+    1st   0 110   1
+    2nd   0 110   1
+    3rd   0   0   1
+    4th   0   0   1
+    PR    0 110   1
+    RL    0 110   1
+    DL    0 110   1
+    FR    0   0   1
+    AR    0   0   1
+    PO    0   0   1
+    UD    0   0   1
+    RR    0   0   1
+    BR    0   0   1
+    DR    0   0   1
+    NS    0   0   1
+    DU    0   0   1
+    IQ    0   0   1
+    MI    0   0   1
+    CH    0   0   1
+    CQ    0   0   1
+    FRN   0   0   1
+    DE    0   0   1
+    IT    0   0   1
+    POR   0   0   1
+    SP    0   0   1
+    FAN   0   0   1
+}
+set tempDeckFormatDigit {
+    0   0 110   1
+    1   0 110   1
+    2   0 110   1
+    3   0 110   1
+    4   0 110   1
+    5   0 110   1
+    6   0 110   1
+    7   0 110   1
+    8   0 110   1
+    9   0 110   1
+}
+set tempDeckFormatBanned {
+    1st/421 1st/422 1st/423 1st/424 1st/425 1st/426 1st/427 1st/428 1st/429 1st/430 
+    1st/431 1st/432 1st/433 1st/434 1st/435 1st/436 1st/437 1st/438 1st/439 1st/440 
+    PR/003 
+}
+set tempDeckFormatAllowed {
+    
+}

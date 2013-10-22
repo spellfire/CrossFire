@@ -1,0 +1,8 @@
+set plugInInfo {
+    TalkBot.tcl
+    tb
+    {The Talk Bot}
+    PlugIn::TalkBot::Start
+    PlugIn::TalkBot::Receive
+    PlugIn::TalkBot::Close
+}

@@ -1,0 +1,17 @@
+# This file contains online play oriented actions.
+#
+# Format is:
+#
+#   action_word {Menu title} {text to display for the action}
+#
+# add $who in the text to be replaced by the name of the person
+# the action is targeted at.
+
+okay     {Okay!}          {says OK}
+okayq    {Okay?}          {asks okay?}
+vercf    {Version}        {is using CrossFire version $cfVersion}
+mail     {Mailing List}   {says to join the Spellfire mailing list send an email to LISTSERV@ORACLE.WIZARDS.COM with the words "SUBSCRIBE SPELLFIRE-L" in the body of the message}
+horned   {Horned Society} {uses Horned Society 3rd/117 sending this Champion to limbo:}
+arena    {Arena of Dori}  {uses Arena of Dori the Barbarian IQ/003 to attack this Champion:}
+antispeed {Anti-Speed Rules Link} {says the Anti-Speed Deck Rules are online here: http://www.SimonDorfman.com/Games/Spellfire/AntiSpeedDeckRules/ }
+watchgame {Watch Game Instructions}   {says: to let $who watch our game, here's the procedure:  :[ $who: in the chat window, upper-left, click "Game" -> "Watch 6 Realm Game"  :[ Next, in the new window that appeared called "$who - Watch Game 1", click "Game" -> "Add Player".  Repeat until all players have been added.  :P Next, those playing the game, click "Game" -> "Add Watcher..." and select $who  :P Only after all the the players have added $who as a watcher, then we click "Game" -> "Refresh Opponents"}

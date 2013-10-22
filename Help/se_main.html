@@ -1,0 +1,66 @@
+<HTML>
+<HEAD>
+<TITLE>Ultra Searcher</TITLE>
+</HEAD>
+
+<BODY>
+<CENTER>
+<H1>Ultra Searcher</H1>
+</CENTER>
+<HR><P>
+<H3>Overview:</H3>
+The Ultra Searcher was created to allow for very precise card searches.
+For example: you wanted to find all undead monsters or all Greyhawk realms
+with the word "immune" in the card text.
+These kinds of searches can now be done!
+<H3>Searching:</H3>
+Each part of the Ultra Searcher dialog has a check box.
+Select that check box to limit the search to what is selected
+in the lists or entered in the fields.
+The items in a list are OR (not AND) searches!
+(ie: selecting Flyer, Awnshegh, and Swimmer will match any of those.)
+Caution: &lt;Clear&gt; clears the entire form.
+You can add cards from the results box to a deck by draging and dropping the card onto the deck list.
+<H3>Fields:</H3>
+<DL>
+<DT><B>Card Title and Text</B>
+<DD>Enter plain text or a regular expression. This text is NOT case sensitive.
+<P><DT><B>Levels</B>
+<DD>The level field is entered as a list of levels to search for.
+It also allows for ranges of levels such as 2-5, or &lt;5 or &gt;8.
+These may be combined: <CODE>&lt;4, 7, 8, 10-12</CODE>.
+This will find all levels less than 4 or equal to 7, 8, 10, 11, or 12.
+<P><DT><B>Last Digit</B>
+<DD>Select the desired last digit of the card number.
+Ranges can be specified the same way as "Levels" above.
+<P><DT><B>Attributes, Card Types and Worlds</B>
+<DD>Select the desired criteria from the list.
+</DL>
+<H3>Example:</H3>
+<OL>
+<LI>All Undead Monsters:
+<OL>
+<LI>Push &lt;Clear&gt;
+<LI>Click Attributes
+<LI>Select Undead
+<LI>Click Card Types
+<LI>Select Monster
+<LI>Click &lt;Search&gt;
+</OL>
+<LI>All Greyhawk realms with the word "immune" in the card text:
+<OL>
+<LI>Push &lt;Clear&gt;
+<LI>Click Card Text
+<LI>Type 'immune' into the entry field. (This is NOT case sensitive.)
+<LI>Click Card Types
+<LI>Select Realm
+<LI>Click Card Worlds
+<LI>Select Greyhawk
+<LI>Click &lt;Search&gt;
+</OL>
+This was to (hopefully) find the realms that were immune to something
+or inferred immunity to champions.  A better text to type might be "immun".
+</OL>
+<HR>
+</BODY>
+</HTML>

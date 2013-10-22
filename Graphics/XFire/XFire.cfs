@@ -1,0 +1,28 @@
+# main has X and Y
+main {}
+
+# default has X, Y, and Spacing.  Used for placement of unplaced icons.
+default {}
+
+# helpString has X, Y, and Color
+helpString {}
+
+# Program Icons have X, Y, and Show
+# ie: viewer {{X 10} {Y 10} {Show Yes}}
+viewer   {}
+searcher {}
+deckIt   {}
+format   {}
+cardInv  {}
+swapShop {}
+solGame  {}
+cardEdit {}
+comboMan {}
+comboVue {}
+chatRoom {}
+logView  {}
+backUp   {}
+restore  {}
+config   {}
+help     {}
+quit     {}

@@ -1,0 +1,8 @@
+set plugInInfo {
+    RPS.tcl
+    rps
+    {Rock, Paper, Scissors}
+    {PlugIn::RPS::Start}
+    PlugIn::RPS::ReceiveOpponentCommand
+    PlugIn::RPS::CloseAll
+}

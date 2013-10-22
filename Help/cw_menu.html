@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+<TITLE>Card Warehouse Menu Bar</TITLE>
+</HEAD>
+
+<BODY>
+<CENTER>
+<H1>Card Warehouse Menu Bar</H1>
+</CENTER>
+<HR>
+<H3>File</H3>
+<UL>
+<DL>
+<P><DT><B>New</B>
+<DD>Creates a new inventory.
+First checks if current inventory needs to be saved.
+<P><DT><B>Open</B>
+<DD>Loads a saved inventory. First checks if current inventory needs to be saved.
+<P><DT><B>Save</B>
+<DD>Saves the current inventory.
+<P><DT><B>Save As</B>
+<DD>Saves the inventory with a new filename.
+<P><DT><B>Deck: Remove From Inventory.</B>
+<DD>Removes all the cards in a deck from the current inventory.
+This command changes the "in inventory" status of the deck to "no" and saves the adjusted inventory.
+<P><DT><B>Deck: Add To Inventory.</B>
+<DD>Adds all the cards in a deck to the current inventory.
+This command changes the "in inventory" status of the deck to "yes" and saves the adjusted inventory.
+<P><DT><B>Import</B>
+<DD>Imports a Spellfire Database 2.x inventory.
+The importing is performed from a <B>backup</B> (<CODE>spellfire.bck</CODE>) file made by Spellfire Database.
+Do not try to import a CSV created by Spellfire Database 2.0-2.3...there is a card text error that causes problems.
+You may also import from Spellfire Collector.
+Export the inventory to Spellfire Database which creates a CSV file (<CODE>spellfire.csv</CODE>), then import from that file.
+<P><DT><B>Export</B>
+<DD>Exports a Spellfire Database 2.x inventory.
+Exporting creates a <B>backup</B> file for Spellfire Database to restore from.
+<P><DT><B>Exit</B>
+<DD>Closes the inventory editor. First checks if current inventory needs to be saved.
+</DL>
+</UL>
+<HR>
+<H3>Card</H3>
+<UL>
+<DL>
+<P><DT><B>Set</B>
+<DD>Selects a card set. This can also be changed using the comma (,) or period (.) keys.
+<P><DT><B>View</B>
+<DD>Views the selected card.
+</DL>
+</UL>
+<HR>
+<H3>Report</H3>
+<UL>
+<DL>
+<P><DT><B>Inventory</B>
+<DD>Generates an inventory report of the current card set in the selected format and display method.
+<P><DT><B>Wanted Cards</B>
+<DD>Generates a report of the wanted cards of the current card set in the selected format and display method.
+<P><DT><B>Extra Cards</B>
+<DD>Generates a report of the extra cards of the current card set in the selected format and display method.
+<P><DT><B>Format</B>
+<DD>Changes the format of the report. See <A HREF="cw_options.html">options</A>.
+<P><DT><B>Display Method</B>
+<DD>Changes the way card number and quantity are displayed for Brief and HTML formats.
+See <A HREF="cw_options.html">options</A>.
+</DL>
+</UL>
+<HR>
+<H3>Utilities</H3>
+<UL>
+<DL>
+<P><DT><B>Card Counter</B>
+<DD><A HREF="cw_counter.html">Card Counter</A> reports the number of cards in a set.
+<P><DT><B>Change Wanted Quantity</B>
+<DD><A HREF="cw_setqty.html">Change Wanted Quantity</A> allows for setting or adjusting the maximum wanted quantity of all the cards in a set.
+<P><DT><B>Change Multiple Card Quantities</B>
+<DD><A HREF="cw_multi.html">Change Multiple Card Quantities</A> allows for changing many cards with one command.
+<P><DT><B>Configure</B>
+<DD>Change Card Warehouse <A HREF="cw_options.html">options</A>.
+</DL>
+</UL>
+<HR>
+<H3>Help</H3>
+<UL>
+<DL>
+<P><DT><B>Help</B>
+<DD>Starts the hypertext help system.
+<P><DT><B>About</B>
+<DD>Brief tribute to the author of the Card Warehouse.
+</DL>
+</UL>
+<HR>
+</BODY>
+</HTML>
