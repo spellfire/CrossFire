@@ -51,9 +51,7 @@ Instead of the latest version of ActiveTcl 8.4.x (e.g. 8.4.20), you might need v
 Double-click the "CrossFire.tcl" file inside the CrossFire folder that you saved to your hard drive.
 
 ### Mac
-Double-click the "CrossFireLauncher.app" file inside the CrossFire folder that you saved to your hard drive.
-
-NOTE: CrossFireLauncher.app is currently missing. If this file can't be recovered from a backup, it will be recreated and uploaded soon. It's a simple applescript app that opens CrossFire.tcl with ActiveTCL.
+Double-click the "CrossFire Launcher for Mac" file inside the CrossFire folder that you saved to your hard drive.
 
 ## Open Online Chat Interface for Online Real-time Games
 
