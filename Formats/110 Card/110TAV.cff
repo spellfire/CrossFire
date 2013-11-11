@@ -1,0 +1,107 @@
+set tempDeckFormatTitle {110 Card TAV (The Antigonish Variant) }
+set tempDeckFormatInfo {http://spellfiretav.blogspot.ca/2012/08/the-official-tav-rules.html
+
+https://docs.google.com/document/d/1gG9Xn65ZPCViAcSglPHDL8bDNycc7o949Yo2bz4BsD4/edit
+
+Bans two cards:
+Poor Oriental Lord (Dungeons chase 20/25).
+Wealthy Oriental Vassal (Millennium 81/99).}
+set tempDeckFormatTotal {
+    All        110 110
+    Avatars      0   2
+    Chase        0 110
+    Champions    1  40
+    Levels       0 180
+}
+set tempDeckFormatLimits {
+    Ally               0 110   1
+    Artifact           0  15   1
+    {Blood Ability}    0 110   1
+    Cleric             0  40   1
+    {Cleric Spell}     0 110   1
+    Dungeon            0   1   1
+    Event              0  17   1
+    Hero               0  40   1
+    Holding            0  10   1
+    {Magical Item}     0  20   1
+    Monster            0  40   1
+    Psionicist         0  40   1
+    {Psionic Power}    0 110   1
+    Realm             15  30   1
+    Regent             0  40   1
+    Rule               0   5   1
+    Thief              0  40   1
+    {Thief Ability}    0 110   1
+    {Unarmed Combat}   0 110   1
+    Wizard             0  40   1
+    {Wizard Spell}     0 110   1
+}
+set tempDeckFormatRarity {
+    M    0 110   1
+    C    0 110   1
+    UC   0 110   1
+    R    0 110   1
+    VR   0 110   1
+    S    0 110   1
+    V    0 110   1
+}
+set tempDeckFormatWorld {
+    0     0 110   1
+    7     0 110   1
+    6     0 110   1
+    4     0 110   1
+    5     0 110   1
+    1     0 110   1
+    2     0 110   1
+    3     0 110   1
+    8     0 110   1
+    9     0 110   1
+    FAN   0 110   1
+}
+set tempDeckFormatSet {
+    NO    0 110   1
+    1st   0 110   1
+    2nd   0 110   1
+    3rd   0 110   1
+    4th   0 110   1
+    PR    0 110   1
+    RL    0 110   1
+    DL    0 110   1
+    FR    0 110   1
+    AR    0 110   1
+    PO    0 110   1
+    UD    0 110   1
+    RR    0 110   1
+    BR    0 110   1
+    DR    0 110   1
+    NS    0 110   1
+    DU    0 110   1
+    IQ    0 110   1
+    MI    0 110   1
+    CH    0 110   1
+    CQ    0 110   1
+    FRN   0 110   1
+    DE    0 110   1
+    IT    0 110   1
+    POR   0 110   1
+    SP    0 110   1
+    FAN   0 110   1
+}
+set tempDeckFormatDigit {
+    0   0 110   1
+    1   0 110   1
+    2   0 110   1
+    3   0 110   1
+    4   0 110   1
+    5   0 110   1
+    6   0 110   1
+    7   0 110   1
+    8   0 110   1
+    9   0 110   1
+}
+set tempDeckFormatBanned {
+    DUc/20 MI/081 
+}
+set tempDeckFormatAllowed {
+    
+}
