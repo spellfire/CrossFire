@@ -1,0 +1,56 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Considering these changes:
+-Complete Surprise for Weasel Attack?
+-Oracle of Delphi for Front Lines?
+-Yorgia Sandow for Undead Htimsen?
+-Clockwork Ogre for Quill Pen of the Planes?
+-add Goibhniu's Warhammer?
+
+Philosophy:
+Aim for long-term dominance via constant attack.  Instant win, battle-hearty deck.  Play offensively, attack and raze realms.  Cards that can be used over and over (magic items & artifacts) are prefered to one-use cards.  Except events where the return is generally justified.
+
+Champions:
+Instantly win (but are not instantly defeated like Living Scroll and King of the Elves). AD&D for artifacts.  Dragons for Orb of GreenDragonkind.
+
+Combos:
+-Put Orb of Green Dragonkind on an instant defeat champ and copy Stryck's power to choose defender.
+-Sword and Helm on Undead Htimsen so any Psionicist that defends is defeated
+-Arena, then attack flyer with Gloriana discards them, or attack undead with Corpse Dragon discards them, or attack a non-cleric, -psionicist, -hero and attack Sword and Helm to discard him also.
+-living wall + ego coin + quill pen, copy bilago's power makes him almost unstoppable
+}
+set tempDeckTitle {Instant Win AD&D Dragons}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {PO   58} {PO   60} {PO   17} {UD   82} {1st 462} {4th 456} {4th 520}
+   {DL   56} {FR  117} {DU  102} {FR   56} {IQ   13} {BR  120} {IQ   65}
+   {1st 429} {RR  104} {3rd  99} {FR  102} {1st 424} {1st 457} {DR   75}
+   {CH   59} {IQ    2} {IQ    3} {NS    7} {NS   18} {UD  106} {UD    6}
+   {3rd 400} {DR  106} {RR   56} {DU   24} {1st 401} {MI   89} {BR   34}
+   {DR  116} {DR   28} {DR   36} {RL   88} {1st 443} {UD    4} {RR   31}
+   {IQ   17} {DR  115} {4th 137} {1st 425} {PO  108} {CH   68} {AR   89}
+   {1st 428} {UD  121} {3rd 206} {AR   27} {IQ   67} {CQ   74} {RL   11}
+  
+}
+set tempAltCards {
+   {1st 440} {1st 408} {RR  121} {MI   62} {CQ   44} {CQ   46} {3rd 167}
+   {NS  123} {NS  122} {BR  116} {4th 246} {1st 439} {CQ   33} {BR   46}
+   {DU  122} {DR  104} {CQ   43} {RR   56} {DR   30} {PO    9} {1st 422}
+   {RR  116} {DR  105} {CQ   26} {IQ   68} {RR   55} {FR  112} {NS  106}
+   {DR   47} {4th  23} {4th  33} {4th  49} {RR    7} {NO  218} {MI   25}
+   {IQ   34} {4th 382} {4th 186} {4th  13} {4th  53} {4th  54} {RR   16}
+   {DU   32} {4th  36} {DU   22} {IQ    5} {UD    9} {UD    8} {UD    7}
+   {FR    4} {1st 399} {CQ   42} {NS  124} {RR    4} {IQ   78} {RR  119}
+   {DU  116} {4th 178} {IQ   83} {IQ   54} {MI    6} {4th 461} {DR  112}
+   {DR  108} {4th 384} {BR   63} {DR   39} {DR   40} {DR   38} {DR   32}
+   {AR   78} {AR   72} {4th 312} {AR   62} {DR   41} {UD   98} {DL  110}
+   {DU   38} {DU  114} {DR   43} {DR  109} {DU   70} {UD   32} {UD  105}
+   {UD    5} {RL   61} {1st 442} {DR  111} {CH   16} {UD   84} {DR  103}
+   {PO   10} {4th  65} {RR   17} {IQ    4} {DR  124} {IQ    7} {NS   25}
+   {RR   64} {PO    5} {1st 419} {DU  103} {UD   15} {DU   71} {IQ   14}
+   {IQ    6} {UD    2}
+}

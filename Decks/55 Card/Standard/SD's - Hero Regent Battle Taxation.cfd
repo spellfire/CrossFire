@@ -1,0 +1,47 @@
+set tempDeckSize 55
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Add Gib Thiaf? She can use both blood abilities and thief skills...
+
+Switch to regular speed realms?  Or switch to greyhawk realms plus holding for draw cards from thief skills?  My champs can win without dungeon due to high magic items.  Take out Joliet the Rash for Son of Tasselhof and level 2 wizard who doubles levels?
+
+Find room for Divine Right, Ring of All Seeing, Tankity, Scroll of 7 Leagues
+
+Win with high levels from dungeon.  Or from magic item help.
+Most champs should be able to earthwalk or fly.
+Attack every turn if possible and kill all those defensive speed decks! :P
+}
+set tempDeckTitle {Hero Regent Battle 2.0}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {IQ   43} {BR   41} {DU   81} {CQ   30} {CH    5} {BR  118} {IQ   21}
+   {DU   70} {NS   71} {BR  114} {AR   92} {BR    5} {DR    9} {4th  40}
+   {4th  44} {BR    3} {NO    2} {3rd 100} {3rd 319} {3rd  99} {4th 140}
+   {FR  102} {DU   29} {BR   27} {DU   71} {BR   34} {AR  117} {3rd 201}
+   {BR    4} {NS    9} {4th 186} {IQ   65} {IQ   14} {IQ   27} {CH    7}
+   {DU   82} {DU   86} {IQ   78} {DU  114} {4th 255} {3rd 266} {DR   32}
+   {BR  120} {3rd  78} {1st 401} {CQ   45} {DU  102} {BR  106} {DU   79}
+   {DL   39} {MI   26} {RL   61} {3rd 301} {FR  117} {1st 436} {NS  112}
+  
+}
+set tempAltCards {
+   {CQ   51} {CH    1} {MI   75} {NS   29} {DR   33} {BR   83} {IQ   40}
+   {DU   43} {CQ   46} {3rd  60} {1st 462} {1st 440} {BR   73} {4th 221}
+   {CQ    3} {1st 439} {CQ    1} {NS   78} {RR   83} {FR   70} {FR   65}
+   {DL   50} {4th 230} {4th 227} {3rd 283} {BR   91} {RL   97} {BR   43}
+   {BR   39} {CH   18} {1st 412} {DU  103} {CQ   22} {CH   27} {IQ   68}
+   {4th 508} {DR  116} {4th 261} {4th 194} {RR   56} {RR  104} {4th  51}
+   {4th  52} {BR    9} {4th  49} {4th  43} {UD   31} {BR  110} {CH   16}
+   {MI   62} {IQ   30} {DR  115} {CH   59} {CQ   34} {4th 460} {CH   12}
+   {4th  41} {4th 344} {RR   32} {FR   56} {DL   56} {CQ   26} {AR   27}
+   {PO   86} {FR   95} {4th 345} {3rd  52} {PO   37} {CQ   48} {NO  400}
+   {4th 137} {IQ   49} {DU  116} {IQ   42} {NO  213} {IQ   46} {BR   84}
+   {BR   86} {4th 257} {BR   88} {4th  46} {NS  111} {4th 171} {BR  112}
+   {IQ   12} {DL  122} {RR   55} {FR    4} {CH   49} {4th 130} {3rd 202}
+   {IQ   47} {FR  111} {IQ   44} {NS  103} {NS   27} {RR   57} {MI   47}
+   {DR  106} {NS   21} {4th 461} {DR  104} {IQ   96} {4th 520} {IQ   81}
+   {MI   52} {CQ   24} {BR   18}
+}

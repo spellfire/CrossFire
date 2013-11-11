@@ -1,0 +1,26 @@
+set tempDeckSize 55
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes 
+set tempDeckTitle {dragon flyers and spellcasters speed deck}
+set tempCheckInv No
+set tempInventory {D:/Program Files/CrossFire/Inventory/default.cfi}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {DR   16} {DR   24} {DR  109} {RR   31} {UD   82} {RR  116} {DR  115}
+   {DR  112} {DR  101} {DR   29} {UD   69} {3rd 117} {3rd  99} {MI   25}
+   {3rd 400} {FR  102} {DL   63} {4th 171} {4th 402} {4th 120} {4th 131}
+   {NS  111} {AR  120} {4th  17} {4th  20} {AR   92} {NO    2} {DU    6}
+   {1st 437} {4th 382} {4th 383} {4th 384} {DU  104} {IQ   83} {UD   37}
+   {DR   28} {DR  103} {DU   73} {RR   48} {BR   59} {4th  16} {4th  19}
+   {4th 504} {3rd 216} {AR  117} {4th 389} {DR   26} {1st 425} {IQ   67}
+   {4th 140} {DU  110} {MI   47} {4th  90} {4th  25} {4th  22} {NS   14}
+  
+}
+set tempAltCards {
+   {DR   85} {MI   28} {AR    1} {4th 400} {DU  116} {3rd 288} {DR   18}
+   {3rd 202} {FR  111} {AR   54} {FR   56} {DL   56} {FR  118} {DU   31}
+   {AR   89} {DR  122} {DR  123} {DU  103} {1st 393} {3rd 398} {BR   71}
+   {DR   43} {DR   31} {1st 422}
+}

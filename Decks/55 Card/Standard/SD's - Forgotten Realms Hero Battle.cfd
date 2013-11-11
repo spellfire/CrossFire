@@ -1,0 +1,31 @@
+set tempDeckSize 55
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {maybe add the llama king DUc/13 and other AD&D heros and make it an AD&D deck?
+}
+set tempDeckTitle {Forgotten Realms speed battle deck}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {CQ   48} {CQ   46} {DU  109} {DR  104} {CQ   30} {UD   94} {AR   84}
+   {FR   92} {4th 255} {3rd  52} {MI   80} {4th 455} {NS   54} {4th 520}
+   {NO    2} {1st  28} {4th 171} {AR  117} {FR   56} {IQ   67} {3rd  99}
+   {4th 120} {4th 131} {4th 140} {FR  102} {AR   92} {4th 137} {4th  17}
+   {4th  28} {4th  38} {BR    5} {4th  20} {4th  25} {IQ    1} {IQ   14}
+   {AR  120} {RR  113} {FR  118} {4th 508} {RR  116} {3rd  50} {4th 257}
+   {NS    7} {3rd 288} {IQ   42} {DL   56} {UD  106} {DU   70} {DU  102}
+   {4th 186} {FR  117} {CH   59} {CH    5} {MI   47} {IQ   78} {IQ   43}
+  
+}
+set tempAltCards {
+   {DU  125} {DU  115} {DU   41} {RR   37} {UD   91} {AR  107} {FR   98}
+   {FR   97} {FR   93} {4th 254} {4th 253} {3rd  53} {4th 324} {3rd  57}
+   {3rd  73} {3rd  76} {3rd  78} {3rd  79} {1st 410} {FR   60} {FR  108}
+   {AR   10} {IQ   55} {4th 516} {4th  73} {NO  203} {3rd 201} {FR  111}
+   {NS  124} {AR   11} {3rd  82} {4th 334} {FR    3} {IQ   49} {RR   39}
+   {CQ   66} {CQ   79} {CQ   26} {FR  100} {1st 422} {FR   95} {3rd 206}
+   {4th 500} {NO  400} {CQ   34} {4th  22} {4th 143} {IQ   54} {DR   28}
+   {4th 127}
+}

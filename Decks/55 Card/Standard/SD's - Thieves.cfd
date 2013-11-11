@@ -1,0 +1,34 @@
+set tempDeckSize 55
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Always guess realm for Nobody Wins unless they have a magic item or ally-retrieving card in play, then guess that type of card.  Or if they have purveyor of events, guess events.
+
+Combo:
+Legal Loophole + Master Strategist
+Kelasar Redbelt (lose in battle) + Hijacking = opponent has zero cards, i draw five}
+set tempDeckTitle {thief speed}
+set tempCheckInv No
+set tempInventory {D:/Program Files/CrossFire/Inventory/default.cfi}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {4th  90} {NS   10} {DU   82} {DU   86} {DU   83} {DU   88} {MI   26}
+   {DU  114} {DU    6} {3rd  99} {4th 120} {4th 131} {4th 140} {FR  102}
+   {FR  111} {3rd 117} {4th  16} {4th  17} {4th  19} {4th  20} {AR   92}
+   {DU   31} {NO    2} {4th  25} {RR  116} {CH    7} {IQ   40} {NS   33}
+   {IQ   27} {DU  103} {NS  120} {NS   43} {NS   36} {CQ   16} {CQ   12}
+   {CQ   14} {CQ   13} {3rd 135} {4th  24} {NO  203} {4th 143} {DU  108}
+   {IQ   12} {NS   62} {1st 437} {DU  124} {4th 128} {1st 393} {FR   46}
+   {IQ   42} {4th 500} {4th 490} {NS   32} {CH    6} {4th  84} {PO   25}
+  
+}
+set tempAltCards {
+   {DU   27} {3rd  50} {MI   18} {DU   51} {NS   53} {DU   13} {NS   21}
+   {NS   12} {NS   14} {CH   41} {MI   22} {NS   60} {DU   89} {NS   40}
+   {NS   28} {NS   29} {MI   74} {NS   30} {NS   59} {NS   57} {IQ   93}
+   {IQ   94} {4th 504} {NS    3} {IQ    1} {IQ   10} {NS    2} {IQ    9}
+   {DU   85} {4th  22} {DU  110} {IQ   49} {NS   34} {DU  116} {MI   20}
+   {IQ   99} {MI   75} {NS  112} {NS   49} {3rd 201} {4th 498} {PO  118}
+   {MI   47} {DU   84} {NS   35} {NS   71} {3rd 216} {IQ   96} {1st 216}
+   {PO   25} {DU   40}
+}

@@ -1,0 +1,59 @@
+set tempDeckSize 55
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Playing tips:
+-Save calm for genie bottle against anti-magic cloud.
+-Save Apple of His Eye for Mistress of Destruction.
+-Save Combat Mind for Mistress of Destruction.
+
+Considering:
+-biggest problems, need to stop thief skills: con game & hijack, & unarmed combat cards fighting dirty and slap.
+-Fighting Dirty
+-take out Mistress of Destruction, put in Colum Calder, then take out Kai'Rik'Tik and put in Gib Aklem
+-put in Tarrasque, Black Bess, Cheat!!! & Control Wind. take out Blood Challenge, Apple of His Eye, Deflection & Daydream.
+-Evade (for use against Fighting Dirty! & Slap), or Tyrol ally if he works against Slap.
+-Weasel Attack! (free spoils and kill a champ)
+-Ur Draxa (I took it out so that opponents can't steal it's power with Shadowlands.)
+-4th/063 Sithicus + 1st/428 Weasel Attack! = free spoils, kill two champs to abyss, draw a card, lose a realm, hmmm
+
+Champions:
+Psionicists for keeping power during Anti-Magic Cloud rule & copying power with Tantelear.  All three Psionicist flyers included.
+
+Combos:
+-Highmaster Illithios + The Tantelear = draw 2 cards every time a psionic power card is played
+-Control Wind + Black Bess/Tarrasque/Cheat!!!(b)
+-Gib Kcir and Gatekeeper to recycle Davron. Use Mad Scientist's Laboratory to get my dead champs into the abyss so Gatekeeper can free them.
+-Phase + Combat Mind
+-Combat Mind + Mistress of destruction
+-Apple of His Eye + Mistress of destruction = raze 2 realms per turn for 2 turns}
+set tempDeckTitle {Psionicist Speed 3.0}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {PO  109} {DU  121} {PO   17} {PO   23} {DU   73} {DU   74} {DU   75}
+   {DR  115} {IQ   14} {3rd 100} {3rd 319} {3rd  99} {4th 140} {FR  102}
+   {IQ   43} {DU   11} {CQ   19} {CQ   17} {MI   65} {IQ   76} {4th 329}
+   {IQ   78} {3rd 224} {AR   92} {BR    5} {IQ    2} {3rd   2} {3rd 117}
+   {3rd 124} {PO    9} {PO   16} {IQ   17} {UD  106} {3rd 135} {PO   70}
+   {4th 342} {4th 500} {CH    4} {FR  112} {PO  116} {DR   67} {RR  116}
+   {4th 333} {IQ   12} {4th  50} {BR  120} {DR   68} {DR   72} {NO  400}
+   {4th 137} {IQ   67} {CQ   64} {4th 340} {1st 422} {NS  125} {NO   28}
+  
+}
+set tempAltCards {
+   {DR  101} {CH   28} {MI   70} {NO  213} {NO  203} {IQ   46} {CH    7}
+   {NS  111} {4th 171} {AR  117} {AR  120} {AR   28} {RL   61} {NS  124}
+   {DR   66} {PO  100} {PO   72} {RR   43} {DR   35} {CH    3} {NS  122}
+   {MI   66} {PO   97} {FR   10} {4th 138} {1st 436} {IQ   31} {CH    6}
+   {PO   65} {3rd 201} {4th 159} {4th 143} {RR   38} {4th 246} {PO   20}
+   {IQ   35} {CQ   65} {1st 437} {4th 384} {IQ   83} {UD   88} {MI   62}
+   {NS   74} {BR  123} {1st 413} {DR  112} {4th 330} {PO   86} {4th 520}
+   {4th 424} {PO   71} {DR   70} {DR   71} {MI   69} {CQ   18} {IQ   85}
+   {AR   38} {4th 466} {PO   60} {PO   21} {PO   26} {CH   59} {MI   79}
+   {MI   18} {BR   18} {3rd 288} {DU  103} {FR  111} {1st 401} {4th 469}
+   {MI   52} {MI   71} {PO   74} {4th 135} {4th 134} {PO   24} {NS  123}
+   {PO   95} {IQ   49} {IQ   42} {RR  112} {DR   98} {4th 215} {4th  32}
+   {1st 428} {4th  63}
+}

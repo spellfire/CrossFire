@@ -1,0 +1,46 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName SimonDorfman
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {champs:
+greyhawk only,  heros and clerics
+cleric spells:
+mostly defensive so they can be retrieved by Jerome
+combos:
+Tergoz + Romeis
+}
+set tempDeckTitle {Greyhawk Clerics & Heros}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {CQ   44} {3rd  60} {4th 452} {IQ   25} {4th 400} {RR   48} {FR   34}
+   {AR   81} {PO   42} {4th 283} {DU   45} {IQ   28} {IQ   29} {DU    6}
+   {3rd 117} {DU   31} {4th  16} {4th  19} {IQ    9} {4th  23} {3rd 135}
+   {1st  99} {FR  102} {PO    5} {1st 134} {1st 136} {3rd 134} {3rd 136}
+   {UD   56} {NO  218} {IQ   48} {CQ   54} {4th 257} {1st 203} {1st 213}
+   {3rd 213} {1st 216} {4th 123} {FR  101} {FR   28} {FR   29} {1st 401}
+   {IQ   84} {MI   43} {MI   44} {1st 428} {3rd 189} {3rd 216} {AR  111}
+   {1st 157} {DU   55} {IQ   23} {4th 284} {RR   47} {FR    1} {IQ   32}
+  
+}
+set tempAltCards {
+   {UD  119} {IQ   19} {PO   12} {RR   28} {IQ   39} {IQ   37} {DU  119}
+   {AR   79} {4th 300} {4th 299} {4th 298} {4th 275} {4th 274} {3rd 161}
+   {RR   66} {NS   46} {DU   64} {4th 520} {RR  105} {RR   96} {RR   95}
+   {DU   71} {FR  107} {4th 171} {RL   61} {4th 188} {AR   76} {NS   36}
+   {4th 266} {CH   16} {DL   39} {RR  104} {AR   38} {4th 466} {1st 366}
+   {IQ   68} {MI   18} {MI   49} {DR   22} {BR  124} {BR  101} {PO   37}
+   {DL  114} {DL   97} {RL   23} {4th 515} {4th 157} {4th 153} {NS   26}
+   {3rd 276} {CQ   26} {3rd 206} {DL   63} {4th 130} {RR   32} {DR  110}
+   {4th 192} {BR   30} {DR  121} {FR  110} {RR   57} {UD  109} {CH   25}
+   {UD    8} {BR   34} {4th 505} {IQ   62} {4th 497} {RR   94} {RR   97}
+   {PO  105} {DU  107} {4th 434} {1st 125} {4th  26} {RR    1} {4th 504}
+   {DR   65} {1st 412} {DR  105} {RR   55} {DL   83} {IQ   40} {UD   31}
+   {MI   63} {DL   56} {AR  117} {3rd 196} {PO   23} {RR   54} {RR   46}
+   {DU   95} {4th 384} {DL  108} {3rd 171} {DU  117} {RR   92} {AR   27}
+   {DU   53} {MI    6} {DL   80} {NS   53} {FR   56} {4th 135} {4th 159}
+   {4th 258} {RR   36} {4th 422} {RR  121} {NS   74} {DU  103} {AR  106}
+   {DU   70} {FR   33} {DL   85} {AR   20} {3rd 167} {3rd 164} {UD   93}
+   {3rd 199} {FR  112}
+}

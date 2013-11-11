@@ -1,0 +1,41 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName SimonDorfman
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Philosophy:
+Destroy realms from afar with spells & events.
+
+Champions:
+Wizard & Cleric spell casters. Preferably heroes for Thrice Hearty Cup.
+
+Play tips:
+Reincarnate level 10+ champs into Jerome. Recycle spells with Jerome.
+
+
+Dungeon protects spells from Siege!
+http://oracle.wizards.com/scripts/wa.exe?A2=ind9903D&L=SPELLFIRE-L&P=R3838&I=-3}
+set tempDeckTitle {Realm Destroyer}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {DU    6} {3rd 117} {DU   31} {4th  16} {IQ    9} {4th  23} {3rd 135}
+   {1st  99} {FR  102} {1st 134} {3rd 134} {IQ   48} {1st 203} {1st 213}
+   {3rd 213} {1st 216} {1st 401} {NS  122} {1st 437} {DU  104} {NO  393}
+   {IQ   25} {4th 400} {AR  111} {FR   28} {FR   29} {FR   33} {FR   34}
+   {FR  101} {FR   89} {4th 508} {3rd 323} {3rd 262} {3rd  53} {FR   92}
+   {UD   93} {RR   48} {UD   56} {BR   59} {4th 504} {MI   62} {CH    6}
+   {IQ   83} {PR    2} {DU   45} {1st 431} {4th 520} {RR    1} {4th  26}
+   {3rd 130} {1st 366} {PO  118} {4th 384} {1st 108} {4th 137} {1st 436}
+  
+}
+set tempAltCards {
+   {IQ   19} {RR   28} {IQ   39} {IQ   37} {DU  119} {NS   36} {DL   39}
+   {DL   83} {IQ   40} {DU  117} {DU  103} {DL   85} {3rd 164} {IQ   84}
+   {MI   43} {MI   44} {RR   47} {IQ   28} {IQ   29} {4th 257} {IQ   23}
+   {IQ   32} {AR  106} {3rd 268} {RL   94} {CQ   46} {PO   19} {UD   52}
+   {DR  112} {PO   80} {4th 347} {1st 114} {1st 133} {1st 140} {3rd 128}
+   {3rd 132} {4th  21} {DR    6} {NS    1} {DU   30} {IQ    1} {MI   85}
+   {1st 129} {1st 123} {4th  19} {4th 413} {3rd 216} {DU   55} {1st 428}
+   {DU   99} {FR    1} {4th 123} {4th 171}
+}

@@ -1,0 +1,18 @@
+set tempDeckSize 55
+set tempInInventory true
+set tempAuthorName SimonDorfman
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {look to undead spellcasters anti-speed deck for ideas once more undead greyhawk spellcasters are available.}
+set tempDeckTitle {Undead Greyhawk Spellcasters}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {NS   51} {4th 462} {DU   19} {IQ   48} {3rd 155} {4th 488} {PO   41}
+   {NS   69} {NS  121} {1st 218} {4th 452} {4th  71} {NO  199} {NS   53}
+   {NS   74} {FR   56} {DR  110} {NS   73} {AR    1} {CH   25} {RR  107}
+   {3rd 144}
+}
+set tempAltCards {
+   {CQ   54}
+}

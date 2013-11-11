@@ -1,0 +1,23 @@
+set tempDeckSize 55
+set tempInInventory false
+set tempAuthorName {1999 GenCon Spellfire World Championship Players}
+set tempAuthorEmail spellfire-l@oracle.wizards.com
+set tempNotes {}
+set tempDeckTitle {GenCon's Most Wanted}
+set tempCheckInv No
+set tempInventory {}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {4th 120} {4th  17} {4th 140} {4th 210} {4th 384} {4th 270} {4th 131}
+   {4th 255} {4th  28} {4th 119} {FR    3} {AR   92} {RR  116} {NS  111}
+   {AR  120} {3rd 117} {3rd 135} {AR  117} {FR  118} {FR  102} {4th 508}
+   {DU   24} {DL   56} {RL   88} {4th 520} {4th 400} {DL   39} {4th  32}
+   {BR    6} {AR   28} {3rd 400} {4th 137} {4th 382} {4th 246} {DU  110}
+   {DU  114} {3rd 288} {4th  38} {1st 437} {DU  103} {PO   58} {RL   61}
+   {DU   82} {1st 450} {UD   93} {DR    3} {NS   74} {NS  122} {3rd 167}
+   {4th 389} {4th 504} {DU   31} {1st 422} {1st 393} {DU   53} {4th   1}
+  
+}
+set tempAltCards {
+  
+}

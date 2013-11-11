@@ -1,0 +1,59 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Champions: Monsters.
+
+Events: Discard realms.
+
+Realms: Greyhawk, no attack limiters so Logistics doesn't work against me.
+
+Combos:
+-Living Scroll + Sword & Helm of Garion
+-Gib Drawsemaj into play via:
+1. realm destroying events
+2. Iuz the Evil losing
+3. The Spider attacking a razed realm
+Fun champion power combos to pick for Drawsemaj:
+Living Wall + Stryck/Arijani
+
+Considering:
+-trade out Earth Elemental for Headless Horseman?
+-trade out Sir Edmund Bloodsworth for Cistern Fiend?
+-trade out Arijani for Mul Savage?
+
+Find room for:
+Fighting Dirty!
+
+Ruling links:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind0006D&L=spellfire-l&P=R529
+http://oracle.wizards.com/scripts/wa.exe?A2=ind9903D&L=spellfire-l&D=0&P=4455}
+set tempDeckTitle {Monster Realm Destroyers - April 2013 Tournament}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {DR  107} {PO   58} {3rd 206} {AR   27} {IQ   65} {UD  121} {3rd 147}
+   {4th 520} {FR  102} {3rd  99} {IQ    1} {DU   31} {NS    1} {DR    5}
+   {4th  19} {4th  16} {4th  14} {3rd 135} {3rd 134} {3rd 117} {1st 134}
+   {4th 500} {DU    6} {1st 167} {1st 203} {1st 213} {FR  112} {NS  118}
+   {1st 453} {BR   64} {4th 183} {DU   71} {DU   70} {4th 461} {BR  120}
+   {CH   59} {1st 401} {1st 216} {BR   34} {DU  102} {UD  120} {4th 186}
+   {FR  117} {1st 442} {NS  122} {BR   65} {4th 129} {1st 408} {IQ   34}
+   {1st 457} {4th 504} {RL   89} {RL   95} {RL   88} {IQ   46} {IQ   48}
+  
+}
+set tempAltCards {
+   {DU   38} {NS  117} {DR  111} {DU    5} {BR   15} {4th  98} {NS   25}
+   {BR  101} {AR    1} {MI   25} {MI   63} {CH   25} {DU   22} {CH   66}
+   {NS  114} {PO   30} {CQ   35} {CH   20} {DL  121} {4th 148} {DR  106}
+   {DU  107} {NS   20} {PO   32} {RL   24} {FR    4} {PO  105} {3rd 111}
+   {3rd 216} {DR   65} {1st 422} {IQ   81} {DU   10} {DR  101} {NS   48}
+   {3rd 209} {4th  86} {DU  103} {FR   56} {4th 135} {DL   56} {DR   78}
+   {RR   64} {4th  84} {4th 190} {1st 218} {RL   87} {4th  87} {3rd 400}
+   {4th 134} {RL   61} {IQ   67} {CQ   26} {AR   23} {DU   55} {AR  117}
+   {RR  110} {AR   26} {4th 137} {4th 159} {4th 266} {RL   83} {DR  105}
+   {4th 484} {DR  108} {MI    6} {DU   53} {4th 230} {1st 439} {IQ   68}
+   {4th 460} {4th 123} {NS   65} {3rd 112} {3rd 282} {3rd 284} {CH   16}
+   {PO   60} {1st 428} {RR   56} {RR  104} {UD  115}
+}

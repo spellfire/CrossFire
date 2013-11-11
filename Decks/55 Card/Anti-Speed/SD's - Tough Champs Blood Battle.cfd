@@ -1,0 +1,60 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName {}
+set tempAuthorEmail {}
+set tempNotes {Champions:
+Tough battle abilities. Instant win, limit defender, kill champions.
+
+Realms:
+No limit attacker or cause attacker to discard so that Logistics rule doesn't work against me.
+
+Combos:
+-Spider attack razed realm and win to bring Drawsemaj into play:
+
+Considering...:
+-Myalasia, Sir Edmund Bloodsworth
+-slap, deflection
+-curse of the wolves blood, blood of azhul
+-tasselhoff, son of tass, stryck...
+-add one more realm? greater chance of spoils being a realm
+-Fighting Dirty? (so hard to get a chance to play it...)
+-Corruption blood ability and more Awnshegh like The Magian & The Gorgon.
+-Iuz so he can lose, discard realm and bring Drawsemaj into play, Winged boots combo.
+
+Rules:
+-The Spider gets spoils when attacking razed realm:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind0202C&L=SPELLFIRE-L&P=R2751&I=-3
+He's awesome, just as good as Tithian if not better...
+-Must discard a realm from play (not from hand) for Drawsemaj to come into play.}
+set tempDeckTitle {Tough Champions Blood Battle}
+set tempCheckInv No
+set tempInventory {C:/Program Files/CrossFire/Inventory/default.cfi}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {CH    5} {BR   27} {DU   79} {DU   81} {4th 520} {DU   29} {PO   17}
+   {IQ   48} {PO   58} {4th 119} {IQ    2} {MI   89} {DR    9} {UD  106}
+   {4th  16} {4th  52} {NS    7} {UD    6} {UD    4} {FR  102} {4th 461}
+   {UD  121} {AR   27} {IQ   65} {DU   71} {DU  102} {FR  117} {AR   23}
+   {BR   34} {RL   88} {NS  123} {BR   41} {DU   21} {CH   59} {IQ   17}
+   {UD    2} {IQ   27} {DU   70} {BR   65} {1st 213} {NS  122} {1st 203}
+   {4th 129} {DR  107} {1st 401} {DU  114} {IQ   46} {4th 508} {CQ   46}
+   {CH   29} {NS   36} {BR   64} {4th 137} {DU   82} {NS  112} {NS   46}
+  
+}
+set tempAltCards {
+   {MI   75} {DR  115} {4th 345} {CQ   60} {NS   71} {BR  110} {BR   94}
+   {BR   89} {PO   97} {4th  44} {IQ   67} {RL   97} {RR  104} {RR   56}
+   {4th 448} {PO   83} {CQ   26} {4th 255} {4th 350} {PR    2} {BR  113}
+   {DU   23} {DU   12} {DU   11} {RR   74} {DU   75} {PO  110} {RL   94}
+   {PO   10} {CQ   57} {MI   87} {DU   73} {1st 437} {CQ   52} {DU  122}
+   {RR   37} {DL   56} {BR   39} {BR   90} {4th 384} {DU  103} {IQ   83}
+   {MI   29} {4th 446} {PO   86} {RR   55} {AR  117} {DU  104} {NO  393}
+   {CQ   24} {1st 457} {DR   36} {CH    7} {3rd 301} {IQ   26} {1st 408}
+   {IQ   14} {IQ   78} {1st 167} {4th 186} {NS   18} {3rd 266} {4th 329}
+   {DU   40} {NS   38} {DR   28} {PO   26} {FR   89} {4th 284} {4th 280}
+   {3rd 171} {3rd  50} {1st 456} {RL   89} {RL   61} {4th 183} {PO  108}
+   {4th 456} {RL   87} {PO   23} {1st 172} {PO    9} {RR  116} {1st 422}
+   {NS  125} {3rd 282} {NS   35} {NS   65} {CQ   44} {3rd 284} {RL   95}
+   {4th 330} {4th 334} {BR  114} {DL   39} {IQ   38} {NS  115} {3rd 206}
+   {FR   56}
+}

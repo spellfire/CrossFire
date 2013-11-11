@@ -1,0 +1,49 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Find room for?:
+Headless horseman
+Bess's Revenge
+
+Champions: Monsters.
+
+Events: Discard/raze realms.
+
+Realms: Greyhawk, no attack limiters so Logistics doesn't work against me.
+
+Ruling links:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind0006D&L=spellfire-l&P=R529
+http://oracle.wizards.com/scripts/wa.exe?A2=ind9903D&L=spellfire-l&D=0&P=4455
+}
+set tempDeckTitle {Ferrix Monsters}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {4th 484} {CH   16} {DR  107} {PO   58} {3rd 206} {AR   27} {IQ   65}
+   {UD  121} {3rd 147} {4th 520} {FR  102} {3rd  99} {IQ    1} {DU   31}
+   {NS    1} {DR    5} {4th  19} {4th  16} {4th  14} {3rd 135} {3rd 134}
+   {3rd 117} {1st 134} {4th 500} {DU    6} {1st 167} {1st 203} {1st 213}
+   {FR  112} {NS   65} {NS  118} {1st 453} {BR   64} {4th 183} {DU   71}
+   {DU   70} {4th 461} {PO   60} {DR  108} {BR  120} {CH   59} {1st 401}
+   {1st 216} {BR   34} {DU  102} {UD  120} {4th 460} {4th 186} {FR  117}
+   {RR  104} {1st 428} {4th 123} {3rd 284} {1st 442} {RL   88} {3rd 282}
+  
+}
+set tempAltCards {
+   {CH   14} {MI   62} {DU   38} {NS  117} {DR  111} {PO   10} {DU    5}
+   {BR   15} {4th  98} {NS   25} {BR  101} {AR    1} {MI   25} {MI   63}
+   {CH   25} {DU   22} {CH   66} {NS  114} {PO   30} {CQ   35} {CH   20}
+   {DL  121} {4th 148} {DR  106} {DU  107} {NS   20} {PO   32} {RL   24}
+   {FR    4} {PO  105} {4th 497} {3rd 112} {3rd 111} {3rd 216} {DR   65}
+   {1st 422} {CH   27} {IQ   81} {MI   94} {NS   96} {DR   96} {DU   10}
+   {DR  101} {MI   73} {FR   83} {NS   48} {3rd 209} {4th  86} {IQ   34}
+   {DU  103} {NS   74} {FR   56} {4th 135} {DL   56} {DR   78} {RR   64}
+   {4th  84} {IQ   40} {IQ   32} {DR   37} {RR   28} {PO   23} {AR   81}
+   {AR   76} {4th 257} {4th 190} {1st 218} {NS  122} {RL   87} {4th  87}
+   {1st 430} {3rd 400} {4th 134} {RL   61} {IQ   67} {CQ   26} {AR   23}
+   {DU   55} {AR  117} {RR  110} {AR   26} {IQ   48} {4th 137} {RR   56}
+   {4th 159} {4th 129} {4th 266} {RL   83} {1st 408} {BR   65} {DR  105}
+   {RL   89} {1st 457}
+}

@@ -1,0 +1,60 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Philosophy:
+Attack and raze realms.
+No phase 3 cards because of Gib Igoy.
+
+Events:
+Many battle helping cards with duration for use with Rule: The Event Wheel.
+
+Rulings:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind0408B&L=SPELLFIRE-L&P=R5015&I=-3
+No heroes can be instantly defeated by any card,  Living  wall, Scroll or nasty spells, even wish.
+
+If Morcanth defends against a Dragon, that dragon returns to their pool and the battle is over.
+http://oracle.wizards.com/scripts/wa.exe?A2=ind9810B&L=SPELLFIRE-L&P=R4115&I=-3
+
+Combos:
+-Tergoz plays Tsuki Kotegaeshi, if cards drawn are allies, they cannot be played.
+-Net of Entrapment on champ, then play Tsuki Kotegaeshi for same effect
+-Ego Coin on Gib Occav so he can pull artifacts of any world from discard piles
+-Tyrinon let's Trium Allies Fly with him, so does Pretty Magical Ring
+-4th/152 Ambush followed by CQ/022 Concussing Blow
+}
+set tempDeckTitle {hero deck}
+set tempCheckInv No
+set tempInventory {D:/Program Files/CrossFire/Inventory/default.cfi}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {IQ   27} {3rd 206} {DL  108} {FR  112} {4th 508} {BR  106} {CQ   46}
+   {CH   27} {4th 520} {UD  106} {IQ    3} {IQ    2} {DU   34} {DR    9}
+   {AR   93} {3rd 117} {1st 462} {AR   27} {UD    6} {IQ   65} {UD    4}
+   {CH   59} {CQ   29} {DR   32} {DU  102} {BR   32} {FR  117} {DR  106}
+   {1st 412} {IQ   21} {IQ   13} {DR  104} {FR  102} {1st 401} {4th 500}
+   {DU  109} {DL   39} {MI   80} {NS   46} {AR  117} {NS   54} {FR  108}
+   {3rd 311} {DU   70} {NS    7} {3rd  99} {1st  50} {AR   84} {FR   92}
+   {3rd  78} {FR   89} {IQ   14} {4th 433} {DU  103} {4th  43} {MI   89}
+  
+}
+set tempAltCards {
+   {IQ   23} {1st  45} {1st  53} {1st  55} {1st 323} {3rd 196} {4th 353}
+   {RL   86} {AR  107} {DU   37} {IQ   31} {BR   86} {CQ   44} {MI   49}
+   {CQ   30} {4th 188} {DU   64} {DL   93} {4th 441} {3rd 262} {3rd  53}
+   {RR   97} {DU   76} {DU   77} {MI   99} {RR   36} {UD   31} {DL   92}
+   {RR   96} {RR   95} {RR   94} {IQ   40} {3rd 180} {DL   95} {DL  122}
+   {4th 246} {NS  124} {UD  121} {BR  100} {DL   37} {IQ   68} {FR   34}
+   {CH   40} {IQ   25} {FR  101} {4th 335} {4th 434} {NS   74} {FR   95}
+   {NS   25} {NS  106} {UD    8} {IQ   78} {4th 137} {1st 261} {RR   32}
+   {DR  120} {IQ   51} {RL   61} {4th 192} {4th 461} {4th 136} {CQ   45}
+   {RR   66} {RR  105} {3rd 301} {FR  108} {3rd  82} {UD   94} {PR    3}
+   {DL   56} {DU   71} {2nd 419} {IQ   81} {4th 152} {MI   94} {4th 169}
+   {IQ   67} {CQ   22} {4th 258} {3rd  60} {3rd  52} {3rd 258} {4th 261}
+   {DL   97} {DR   21} {4th 515} {PO   37} {CH    6} {MI   75} {MI   98}
+   {RR   92} {DR  116} {RL   97} {1st 172} {3rd 266} {BR   30} {FR   56}
+   {CQ   26} {1st 439} {FR    4} {BR  124} {DU  107} {4th 153} {DU   82}
+   {RR   57} {DU   53} {MI    6} {4th 230} {CH    7} {AR  108} {CQ   50}
+   {RR  116} {4th 456} {MI   25} {4th 183} {CQ   48} {PO  105} {1st 410}
+   {1st 413} {1st 440} {4th 327} {BR  101} {4th 497} {RR   17}
+}

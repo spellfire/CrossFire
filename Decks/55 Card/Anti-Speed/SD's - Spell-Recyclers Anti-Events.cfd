@@ -1,0 +1,54 @@
+set tempDeckSize 55AS
+set tempInInventory true
+set tempAuthorName {}
+set tempAuthorEmail {}
+set tempNotes {need a way to destroy cavern of  ancient knowledge.
+
+Philosophy:
+Re-cast spells from discard pile. Lots of realm- and champion-destroying spells.
+
+Champions:
+-Spell recyclers
+-Cleric & Wizard spellcasters
+-dragons (for resurrection with Dragon Cultist)
+-flyers (for brining Remnis into play).
+
+Realms:
+Kill champions / painful to attack.
+
+Play tips:
+-use dungeon to get Drawmij's Instant Summons & bring Throne of the Pharaohs into play
+-put chest of many things or book of infinite spells on gib occav so he can play mindkiller from discards and bagual can pull it, so it's like the occav/hags recycle combo, but with bagual and mindkiller.
+-play Geneva Conclave on front realm, then play Siege (combo doesn't work once A Good Defense is in play)
+
+Would love to find room for:
+rod of 7 parts part 7
+ogre's horned helm}
+set tempDeckTitle SD's-AS_Spell-Recyclers_Anti-Event
+set tempCheckInv No
+set tempInventory {C:/Program Files/CrossFire/Inventory/default.cfi}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {CQ   46} {3rd 268} {4th 481} {4th 400} {FR   34} {RR   48} {UD   56}
+   {1st 393} {1st 437} {BR   63} {FR   46} {RL   94} {IQ   25} {1st 420}
+   {BR  107} {IQ   65} {DU   71} {DU   70} {4th 520} {DU  102} {DR  109}
+   {DR   28} {DL   35} {DR   29} {DR  112} {NS    7} {4th 268} {FR   33}
+   {IQ    2} {DR  124} {NS  124} {AR   74} {4th 402} {IQ   84} {DL  113}
+   {3rd 117} {4th  16} {4th  52} {RL   11} {DU  104} {DU   14} {BR   59}
+   {AR  117} {DL   80} {DL   30} {4th 466} {AR   38} {FR   29} {IQ   83}
+   {4th 171} {4th 389} {4th 411} {4th 416} {4th  32} {DR    9} {4th  39}
+  
+}
+set tempAltCards {
+   {IQ   17} {DL   39} {1st 456} {DL   74} {RR  104} {IQ   68} {DR   37}
+   {DR  116} {FR  118} {IQ   69} {1st 422} {RR  116} {FR   89} {DU  103}
+   {DR   33} {DR   30} {AR   72} {AR   78} {DR   31} {3rd 213} {1st 213}
+   {AR   89} {IQ   14} {RL   61} {CQ   66} {IQ    1} {NS    5} {4th  44}
+   {DR  115} {CH   16} {MI   43} {PO   48} {RR   47} {UD  125} {3rd 392}
+   {1st 413} {4th   3} {4th 504} {DR   75} {RR   15} {RR   56} {DU   11}
+   {DU   16} {4th 382} {RR   77} {4th 134} {BR  120} {IQ   46} {MI   50}
+   {DL   56} {DL   85} {DR   86} {IQ   67} {4th 460} {AR   27} {AR   75}
+   {1st 203} {1st 401} {3rd  99} {FR  102} {IQ   48} {PR    2} {PO  118}
+   {RR  113} {BR   61} {RR   46} {IQ   70} {4th 376} {UD   52} {MI   89}
+   {RR    4} {AR   96}
+}
