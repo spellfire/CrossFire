@@ -2,7 +2,7 @@ set tempDeckSize 55
 set tempInInventory true
 set tempAuthorName {Simon Dorfman}
 set tempAuthorEmail simon@simondorfman.com
-set tempNotes {The deck that tries to do everything!™
+set tempNotes {The deck that tries to do everything!
 Philosophy:
 All tough support cards.  Challenge is having the right champ who can use the support card.  Lots of event stoppers.
 
@@ -17,8 +17,7 @@ Combos/Playing Tips:
 -Use Mad Scientist's Laboratory to put own champs into abyss once I have Gatekeeper to free them.  Reminder: Mad Scientist's Laboratory can be used in every battle, not just when it's attacked.
 -lose with Kelasar Redbelt, then play Hijacking = leave them with zero cards while I draw 5
 -once Good Defense is in play, Gellidus can play any support card.
--once Elven Towers is in play, cancel Caravans and Good Fortunes of players even if they have Azure Tower of the Fallen Onad or Purveyor of Events.
-}
+-once Elven Towers is in play, cancel Caravans and Good Fortunes of players even if they have Azure Tower of the Fallen Onad or Purveyor of Events.}
 set tempDeckTitle {Dragonlance Diversity}
 set tempCheckInv No
 set tempInventory /Applications/CrossFire/Inventory/default.cfi

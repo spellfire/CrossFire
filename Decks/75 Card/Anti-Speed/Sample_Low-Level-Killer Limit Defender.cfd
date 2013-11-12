@@ -1,0 +1,69 @@
+set tempDeckSize 75AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Philosophy:
+Limit who can defend (by events, artifacts, magic items).
+
+Subthemes:
+-kill low level champs
+-recycle
+-negate immunities for offensive magic items and harmful events
+-activate power first while defending
+
+Allies:
+Instant kill, especially low level champs. Some undead for Acererak.
+
+Champs:
+AD&D or Dragonlance for Artifacts, level 5 or less for Brandobaris.  Thieves or thief skill users.
+
+Combos:
+Limit defender:
+-Wrath of the Immortals + Midas Orb = no one can defend
+-Trapped! + Wrath of the Immortals = no one can defend
+-Midas Orb + Brandobaris's Inversion = level 6 or higher champs can't defend
+-Apple of His Eye + Sword and Helm of Garion + Skull of Fistandantilus = any two of those three together means no one can defend (throw in the Ring of Human Influence for good measure or play Wrath of the Immortals on a champion type that can't defend against one of those items)
+-Humiliation (put champion type or level that can't defend against another card, since that champ has to defend first, the realm is razed).
+
+Auto-win:
+-Sword of Sharpness + Sword of the High King/Skeletal Lord/Wraith = low enough base level for auto win
+-Tarokka Deck + Vorpal Blade = discard top card with Tarokka if it will allow Vorpal to auto-win
+-Cockatrice + Louie the Pit Boss = Reroll for auto-win
+-Net of Entrapment + Ki-Rin = auto win since opponent can't play ally (also works nicely when Hcivonad makes Ki-Rin into champion)
+-Wand of Orcus + allies that reduce level (Skeletal Lord, Dreaded Ghost, Wraith, White Weird, Bumbling Idiot, Firedrake) = auto win
+-Whip of Disarming + Loup-Garou = auto win since Magic Item can't be played also works nicely when Hcivonad makes Loup-Garou into champion)
+
+Recycle:
+-Arena of Dori the Barbarian + Halcyon/Julio = attack champ, win, pull power card from discard like psionic disintigration or Blamblower to repeat}
+set tempDeckTitle {Low-Level-Killer Limit Defender}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {1st 456} {NS   34} {DU   40} {CQ   46} {BR   78} {4th 246} {4th 217}
+   {DU   82} {DU  114} {MI   74} {NS    3} {NS  112} {DL   56} {IQ   48}
+   {DL   39} {UD  121} {FR   56} {4th 456} {PO    5} {AR   27} {RR   65}
+   {PO   65} {DU   64} {DL  118} {UD  106} {RR  116} {DU   22} {3rd 117}
+   {IQ    2} {NS    7} {4th  46} {CQ   78} {RR   16} {PO   17} {BR   30}
+   {DL  110} {IQ   17} {3rd  86} {DU   46} {MI   17} {4th 157} {CQ   80}
+   {4th  30} {1st 432} {3rd  29} {NS   48} {4th 339} {DR   22} {4th 169}
+   {CH    6} {1st 422} {IQ   68} {MI    6} {PO    9} {DU   53} {4th 248}
+   {FR  112} {3rd  99} {3rd  84} {DU   51} {NS  119} {NS  125} {MI   18}
+   {IQ   61} {RL   79} {4th 329} {NS  124} {IQ    3} {CH    7} {RL   56}
+   {IQ   27} {CQ   23} {DU   73} {4th 508} {RR   38} {3rd 206}
+}
+set tempAltCards {
+   {FR   89} {MI   80} {DU  124} {CH   25} {NS   26} {FR   83} {PO  108}
+   {MI   25} {IQ   14} {4th 168} {NS   36} {3rd 172} {DR   89} {4th 175}
+   {1st 399} {RL    1} {4th   7} {4th  27} {RR  122} {RL   11} {1st 401}
+   {NS   81} {UD  123} {AR   13} {RR  103} {CQ   63} {RR   24} {3rd 233}
+   {4th  89} {DR   81} {IQ    7} {UD    4} {DR   70} {CQ   19} {4th 322}
+   {CQ   47} {NS   37} {3rd 387} {CH   54} {RR  125} {RL   61} {IQ   78}
+   {4th 132} {CQ   39} {CH   27} {CQ   57} {NS   63} {RR   92} {MI   53}
+   {1st 414} {NS   74} {4th 135} {4th 159} {DU  103} {CQ   37} {RR   36}
+   {CQ   16} {BR    3} {NS    1} {IQ   97} {FR  102} {CH    5} {UD    6}
+   {DR   84} {4th 461} {DR  116} {RL   15} {CQ   73} {RL   97} {MI   89}
+   {RL   63} {PO  109} {4th 330} {IQ   31} {DR   32} {1st 462} {DU  109}
+   {DU   75} {RR   37} {IQ   93} {NS   61} {4th 410} {IQ   21} {DR   78}
+   {4th 144} {UD   45} {FR   99}
+}

@@ -1,0 +1,35 @@
+set tempDeckSize 75AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Built around dwarves being immune to events from dungeon.}
+set tempDeckTitle {Dwarves of Event Immunity}
+set tempCheckInv No
+set tempInventory {D:/Program Files/CrossFire/Inventory/default.cfi}
+set tempDeckDisplayMode Type
+set tempDeck {
+   {PO   17} {IQ   30} {DL   39} {DL   37} {BR   84} {4th 339} {4th 330}
+   {3rd  82} {4th 500} {DU   26} {DL  110} {RR   72} {4th 520} {AR   27}
+   {UD  121} {NS   18} {AR  117} {PO   97} {DU   73} {IQ    5} {NS    7}
+   {UD    1} {UD    6} {UD    8} {UD  106} {4th 492} {4th 316} {UD   66}
+   {DL   15} {4th 329} {4th 332} {4th 341} {UD    7} {UD    3} {BR   30}
+   {UD    9} {UD    5} {MI   53} {FR  112} {DL  108} {1st 168} {4th 135}
+   {4th 142} {4th 159} {CQ   39} {IQ   48} {DU  102} {DU   70} {FR  117}
+   {DU   75} {CQ   19} {MI   50} {UD   15} {PO  105} {CH   59} {4th 497}
+   {UD    4} {UD    2} {UD  107} {MI   17} {MI    6} {BR   34} {IQ   68}
+   {NS   48} {PO    5} {CH    9} {CH   30} {DU  117} {3rd 284} {3rd 258}
+   {DU  114} {3rd  47} {CQ   65} {RR   73} {FR  102} {4th 157}
+}
+set tempAltCards {
+   {UD  110} {BR  121} {1st 382} {1st 387} {MI    5} {DU   54} {BR   80}
+   {3rd  86} {DL  115} {DU   46} {RL   79} {UD   77} {UD   81} {RR  101}
+   {1st  84} {CH   24} {UD  123} {FR   65} {MI    8} {AR    1} {RR   66}
+   {4th 466} {UD   14} {IQ   60} {DU    9} {DL  114} {3rd 202} {4th 154}
+   {4th 501} {NS   25} {NS  106} {DR  106} {4th 148} {FR  103} {BR  101}
+   {DU  107} {CH   36} {CH   40} {FR   48} {DR  120} {3rd 206} {1st 419}
+   {UD   32} {1st 412} {UD   29} {3rd 310} {AR   38} {PO   65} {PO   27}
+   {DR   39} {4th 338} {CH   34} {CH   35} {MI    2} {IQ   97} {DU   48}
+   {IQ   65} {NS   39} {DR   67} {MI   71} {4th 128} {AR   54} {3rd 400}
+   {DU  116} {CH    6} {CH    4} {4th 246} {DL   40} {DL   22} {AR   62}
+   {PO   30} {4th 132}
+}

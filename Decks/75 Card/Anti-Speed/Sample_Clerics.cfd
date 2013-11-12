@@ -1,0 +1,58 @@
+set tempDeckSize 75AS
+set tempInInventory true
+set tempAuthorName SimonDorfman
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Maybe try adding some of the sure thing cards from the greyhawk spellcaster anti-speed world war deck.  divination, kiri allavesse for pulling sure thing from discard... 
+
+Find room for:
+-unavailing sacrifice
+
+Champion/Artifact world distribution:
+AD&D:
+	Champions: 7, Artifacts: 2
+Greyhawk:
+	Champions: 7, Artifacts: 2
+Forgotten Realms:
+	Champions: 7, Artifacts: 2
+
+Combos:
+-A Good Defense + Mebhaigl Surge/Jerome to retrieve offensive spells.
+-Earthquake + Spell immune champion cast in combat (Sirrion's Brooch/The Winner's Cape/Codex of the Infinite Planes/Pearl Pegasus, Erital Kaan-Ipzirel, Baldar Dwellardon, Adon, Chant) = kill opponent and raze realm (warning: doesn't work when Good Defense is in play)
+-Servants of Faith + Elemental Swarm = kill most opponent's champions.
+-if Resurrection/Divine Intervention is already in hand or discard, cast Reincarnate to bring out Jerome.
+-Bagual can keep pulling Chant from the deck with his power since it's reshuffled into the deck after winning.
+
+Realms:
+Make defender's immune to offensive spells.}
+set tempDeckTitle Clerics
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {IQ   25} {PO   42} {RR  121} {FR  112} {3rd 268} {PO   48} {UD   56}
+   {4th 400} {FR   34} {MI   43} {MI   44} {4th 402} {IQ   48} {RR  116}
+   {1st 422} {1st 450} {1st 456} {4th 411} {RR   48} {4th 520} {CQ    7}
+   {IQ   84} {UD   52} {RR   47} {1st 438} {DR  112} {IQ   18} {3rd  63}
+   {4th 189} {BR  125} {DU   16} {4th 403} {DU   70} {IQ   56} {CH   23}
+   {CH   26} {IQ   30} {IQ   28} {3rd  69} {NS   54} {1st 218} {IQ   29}
+   {4th 280} {4th 282} {AR   81} {UD   95} {3rd 152} {DU   45} {4th 456}
+   {IQ    7} {MI   89} {RR    3} {4th  54} {4th  41} {NS    7} {RL   11}
+   {RR  122} {4th  35} {4th   5} {4th  27} {PO  118} {3rd  26} {4th 283}
+   {PO    5} {DR   89} {RR    1} {3rd 130} {DR    3} {DR   30} {FR  108}
+   {4th 171} {MI   39} {IQ   69} {FR   33} {DL   85} {DL   81}
+}
+set tempAltCards {
+   {4th 405} {4th 422} {4th 503} {BR   53} {DL   82} {FR   37} {PO   34}
+   {MI   60} {IQ   58} {4th 100} {MI    2} {IQ   89} {CQ   26} {UD  121}
+   {BR   30} {CH   25} {DL   90} {DR   62} {UD   61} {DU    8} {DL   56}
+   {FR   56} {4th 247} {1st 366} {4th 158} {UD   14} {DL   83} {BR   54}
+   {1st 427} {4th 196} {DU   23} {DU   14} {DU   22} {NS   18} {IQ   42}
+   {RR   55} {NO   61} {RL   63} {UD   53} {PO  106} {AR  118} {4th 408}
+   {4th 413} {4th 135} {4th 510} {RL   61} {4th 466} {AR   38} {PO  120}
+   {1st 362} {NS    5} {DU   73} {PO   88} {MI   25} {RR   56} {RR  104}
+   {IQ   24} {4th 313} {CQ   55} {4th 283} {CH    1} {DL  120} {3rd  99}
+   {4th 162} {AR  117} {MI   57} {AR   20} {CQ   13} {DL   80} {RR   10}
+   {1st 436} {DR   78} {4th  66} {UD  125} {3rd 189} {DU   18} {NS  108}
+   {3rd   3} {IQ    3} {1st 464} {AR  111} {CQ    8} {RR   67} {RR   77}
+   {PO  112} {RL   45}
+}

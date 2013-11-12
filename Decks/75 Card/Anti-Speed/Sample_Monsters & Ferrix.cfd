@@ -1,0 +1,55 @@
+set tempDeckSize 75AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Champions: Monsters.
+
+Combos:
+-Apple of His Eye (choose monsters) + Edormira = only event immune or champion power immune champions can defend.
+-Attacking with Harkon Lucas, pick the one psionicist, hero or cleric in the pool, win, then attack with a different champion with the sword and helm to raze.
+
+Playing tips:
+If Belly of the Beast Dungeon leaves play, Winneer's Trophy will help with unarmed combat cards.  Also T'chaar and Gellidus (with Good Defense) can use them.
+
+Ruling links:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind0006D&L=spellfire-l&P=R529
+http://oracle.wizards.com/scripts/wa.exe?A2=ind9903D&L=spellfire-l&D=0&P=4455}
+set tempDeckTitle {Monsters & Ferrix}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {4th 484} {DR  107} {PO   58} {3rd 206} {AR   27} {IQ   65} {UD  121}
+   {3rd 147} {4th 520} {IQ    1} {DU   31} {3rd 117} {NS  118} {1st 453}
+   {BR   65} {BR   64} {4th 183} {DU   71} {AR  117} {DU   70} {4th 461}
+   {CQ   26} {UD  120} {BR   34} {4th 457} {4th 199} {CH   27} {MI   94}
+   {NS   96} {DR   96} {DU  103} {4th 159} {IQ    9} {AR   90} {AR   87}
+   {NS   74} {4th 135} {RR   92} {FR   56} {DU  101} {NS   97} {DU   10}
+   {DR  101} {4th 433} {4th 466} {BR   49} {BR    3} {BR    4} {BR   27}
+   {4th 106} {4th  41} {4th  40} {DU   29} {BR   15} {4th  42} {NS    9}
+   {BR   68} {BR   67} {BR   43} {BR   39} {DU   81} {BR   41} {4th  44}
+   {UD   83} {RR   40} {BR   46} {NS   65} {AR    1} {DR   36} {1st 457}
+   {UD  115} {CQ   51} {1st 421} {RL   61} {4th  46} {DU   79}
+}
+set tempAltCards {
+   {CH   14} {MI   62} {NS  117} {DR  111} {PO   10} {DU    5} {4th  98}
+   {NS   25} {MI   25} {MI   63} {CH   25} {DU   22} {CH   66} {NS  114}
+   {CQ   35} {CH   20} {DL  121} {4th 148} {DR  106} {DU  107} {FR    4}
+   {4th 497} {DR   65} {3rd 209} {IQ   34} {RL   83} {RR  110} {DL   56}
+   {DR   78} {IQ   40} {IQ   32} {DR   37} {PO   23} {AR   81} {AR   76}
+   {4th 257} {3rd 123} {3rd 129} {RL   58} {NS   48} {UD   52} {AR  105}
+   {UD   14} {4th  87} {IQ   42} {4th 190} {3rd 284} {DU    6} {RR   64}
+   {1st 216} {3rd 216} {4th  84} {DU   55} {4th  86} {1st 134} {3rd 113}
+   {3rd 134} {3rd 140} {4th  14} {4th  16} {UD    8} {CH   59} {3rd 135}
+   {NS    1} {4th 504} {RR    1} {UD   30} {NS   95} {4th 464} {CH   48}
+   {4th  19} {RR   56} {NS  122} {CQ   23} {3rd 400} {4th 137} {IQ   67}
+   {3rd  99} {RR  104} {4th 152} {IQ   48} {MI   73} {IQ   81} {RL   87}
+   {FR  102} {CQ   22} {4th 500} {IQ   61} {4th 460} {1st 419} {NS    7}
+   {3rd   3} {4th  13} {4th  57} {DU   32} {FR   11} {NS    4} {4th  43}
+   {4th  47} {4th  49} {4th  50} {4th  52} {4th 343} {1st 424} {DR   75}
+   {4th 434} {NS   18} {NS  124} {RR   16} {PO  108} {1st 218} {1st 422}
+   {CH   16} {3rd 282} {DR    9} {3rd 298} {FR   83} {1st 167} {RL   89}
+   {DU   38} {1st 408} {4th 449} {4th 321} {1st 442} {FR  112} {4th 266}
+   {DR  105} {BR  114} {BR   83} {BR   86} {RL   88} {RR   43} {4th 186}
+   {MI   53} {CQ   39} {DR    5} {RR   94}
+}

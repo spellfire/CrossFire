@@ -10,9 +10,8 @@ Find room for Divine Right, Ring of All Seeing, Tankity, Scroll of 7 Leagues
 
 Win with high levels from dungeon.  Or from magic item help.
 Most champs should be able to earthwalk or fly.
-Attack every turn if possible and kill all those defensive speed decks! :P
-}
-set tempDeckTitle {Hero Regent Battle 2.0}
+Attack every turn if possible and kill all those defensive speed decks! :P}
+set tempDeckTitle {Hero Regent Battle Taxation}
 set tempCheckInv No
 set tempInventory /Applications/CrossFire/Inventory/default.cfi
 set tempDeckDisplayMode Type

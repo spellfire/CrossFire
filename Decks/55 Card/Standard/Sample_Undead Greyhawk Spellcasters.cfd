@@ -2,7 +2,7 @@ set tempDeckSize 55
 set tempInInventory true
 set tempAuthorName SimonDorfman
 set tempAuthorEmail simon@simondorfman.com
-set tempNotes {look to undead spellcasters anti-speed deck for ideas once more undead greyhawk spellcasters are available.}
+set tempNotes {}
 set tempDeckTitle {Undead Greyhawk Spellcasters}
 set tempCheckInv No
 set tempInventory /Applications/CrossFire/Inventory/default.cfi

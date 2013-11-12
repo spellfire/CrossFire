@@ -2,9 +2,8 @@ set tempDeckSize 55
 set tempInInventory true
 set tempAuthorName {Simon Dorfman}
 set tempAuthorEmail simon@simondorfman.com
-set tempNotes {maybe add the llama king DUc/13 and other AD&D heros and make it an AD&D deck?
-}
-set tempDeckTitle {Forgotten Realms speed battle deck}
+set tempNotes {}
+set tempDeckTitle {Forgotten Realms Hero Battle}
 set tempCheckInv No
 set tempInventory /Applications/CrossFire/Inventory/default.cfi
 set tempDeckDisplayMode Type

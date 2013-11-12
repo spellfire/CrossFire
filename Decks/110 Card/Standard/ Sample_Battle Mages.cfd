@@ -1,0 +1,56 @@
+set tempDeckSize 110
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Philosophy:
+Attack and raze realms, or blow away realms with spells.  Get Remnis in play for recursive spell realm destruction.  Realm destructive cards for bring in Drawsemaj.
+
+Champions:
+Wizards with good battle powers.  Flyers for bringing out Remnis.
+
+Magic Items:
+High bonus to help bring out Avatar.
+
+Realms:
+AD&D for holding Cavern of Ancien Knowledge.  Help in battle, help dragons.
+
+Combos:
+-Bloodstone of Fistandantilus + Blood Challenge/Arena of Dori the Barbarian}
+set tempDeckTitle {Battle Mages}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {MI   30} {3rd  99} {4th 137} {FR  102} {FR  112} {IQ   48} {DL   56}
+   {4th 312} {DR   31} {DR   33} {IQ   17} {AR   76} {BR  108} {AR   27}
+   {BR   63} {4th 520} {AR  117} {DU   71} {DR   28} {DR   37} {4th 481}
+   {NS   68} {NS  116} {DR   29} {IQ   14} {4th 384} {4th 382} {IQ   65}
+   {RL   61} {PO    5} {1st 437} {NO  393} {IQ   83} {4th 171} {IQ   67}
+   {IQ    2} {NS  124} {NS    7} {UD  106} {DR  124} {DU   16} {UD    6}
+   {UD  121} {UD   93} {DU   70} {4th 271} {4th 275} {CQ   61} {DR  115}
+   {DR  103} {RL  100} {IQ   37} {AR  106} {RR   28} {RR  106} {RR   36}
+   {NS   74} {3rd  46} {NS  122} {NO  218} {1st 420} {FR   56} {DU  103}
+   {NS   54} {4th 455} {4th 255} {AR   85} {3rd  43} {3rd 213} {NO  203}
+   {NO  213} {IQ   46} {4th 143} {BR  125} {4th 513} {DU  104} {BR   59}
+   {3rd   2} {3rd 117} {3rd 124} {3rd 135} {3rd 224} {4th  32} {AR   92}
+   {BR    5} {NO   28} {1st 436} {DU   31} {BR  120} {IQ    3} {MI   89}
+   {PR    2} {BR  123} {4th 135} {4th 383} {4th 389} {3rd 201} {4th 159}
+   {RL   49} {RR   54} {4th 246} {4th 168} {4th 217} {BR   78} {NS   81}
+   {4th 370} {4th 377} {DU  102} {FR  117} {NS   48} {RR   77}
+}
+set tempAltCards {
+   {4th 357} {4th 486} {CQ   62} {FR   88} {UD   98} {NS   69} {MI   85}
+   {NS    1} {DR    8} {FR  123} {4th  40} {4th  26} {4th  16} {1st 405}
+   {MI   63} {4th 505} {DU   53} {DR   44} {DR   43} {NO  199} {NO  218}
+   {1st 424} {UD   14} {BR  125} {3rd 397} {BR   61} {RR  109} {NO  339}
+   {3rd 347} {IQ   68} {DL  113} {BR   34} {NS   26} {MI    6} {4th 159}
+   {4th 135} {AR  120} {RR   68} {RR   46} {IQ   72} {DR   85} {4th 460}
+   {4th 126} {UD    4} {4th  70} {RR   16} {IQ   81} {RR  122} {RR    4}
+   {DL   62} {BR   30} {RL   93} {AR   79} {4th 376} {1st 412} {PO  106}
+   {4th 198} {AR  119} {IQ   40} {DR  109} {DR  115} {DR   34} {DR   26}
+   {RR   31} {UD   82} {AR   78} {AR   72} {DL   35} {DL   30} {RR  116}
+   {4th 343} {4th 268} {4th 267} {4th 263} {1st 465} {DR  112} {4th 311}
+   {4th 344} {3rd 263} {4th 487} {PO   58} {4th 270} {DR   41} {4th 273}
+   {1st 422} {4th  65} {CQ   74} {UD  105} {IQ   12} {NS   18} {4th  39}
+   {1st 401} {4th 189}
+}

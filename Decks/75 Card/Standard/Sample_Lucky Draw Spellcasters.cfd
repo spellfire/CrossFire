@@ -1,0 +1,57 @@
+set tempDeckSize 75
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Philosophy: Based on Seal of Lost Arak artifact.  Put on a ravenloft spellcaster and use other cards to put opponents' Disintegrate and Estate Transference spells on top of their decks so the Seal can use it in phase 3.  Lots of Sure Thing (draw and discard) cards also.
+
+Realms:
+High last digit for Lady Luck.
+
+Magic Items:
+Last digit of 9 or 7 so Moraster can put one on the top and then play The Fates.
+
+Champions:
+Greyhawk and Ravenloft for Ren's Crystal Ball and Seal of Lost Arak.  Wizards for Tenser's Crystal Ball and Dalamar's Ring of Healing.  Odd last digit of wizards is good for using the Ring to put them on top, then play The Fates.
+
+Combos/Playing tips:
+-Espionage! + Three Card Monte = put 3 realms in abyss
+-Provocation + Mebhaigl Surge = Only I get spells back
+-Lady Luck doesn't work when Sure Thing is in play:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind0502B&L=spellfire-l&P=R2209
+-Rahil the Falcon's power is once per turn:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind9805E&L=spellfire-l&P=R2824
+-Dalamar's Ring of Healing put DUc/19 Rary's Apprentice, 4th/357 Bride of Malice, CH/013 Marius, RL/093 Gabrielle Aderre or 3rd/161 Rary the Traitor on top of deck, then play The Fates
+-Dalamar's Ring of Healing to put high level wizard on top of deck, then play Three Card Monte}
+set tempDeckTitle {Lucky Draw Spellcaster}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {AR   12} {BR  123} {BR   18} {FR    9} {NS   74} {4th 350} {3rd  50}
+   {NS   68} {NS  116} {CH   13} {4th 257} {RR   68} {DL   62} {BR   63}
+   {IQ   83} {1st 437} {3rd 100} {3rd 319} {3rd  99} {4th 140} {FR  102}
+   {4th 389} {4th 171} {3rd 199} {FR   43} {4th 135} {DU  103} {4th 383}
+   {RR   77} {RR   28} {UD   93} {AR  106} {AR   76} {DR   28} {AR  117}
+   {IQ   67} {4th  73} {FR   42} {NS   18} {4th   1} {4th  17} {BR    5}
+   {NS    7} {MI   89} {FR   17} {CH   67} {AR   89} {AR   87} {4th  59}
+   {3rd  29} {1st 393} {DL   74} {IQ   48} {DU   16} {NS  121} {DU  104}
+   {4th 384} {RR  113} {4th 339} {3rd 391} {IQ   40} {3rd 161} {DU  119}
+   {IQ   17} {4th 279} {IQ   43} {DL   39} {RL   93} {UD  106} {3rd 139}
+   {CH   68} {1st 419} {4th 144} {BR  125} {4th 199} {AR  119}
+}
+set tempAltCards {
+   {CH   16} {4th 298} {BR    4} {FR  111} {MI   47} {3rd 201} {3rd 288}
+   {3rd 400} {4th 137} {BR  120} {UD   45} {DL   56} {BR  108} {AR   27}
+   {DU   71} {PO    5} {DU   70} {UD  124} {IQ   65} {RL    7} {RR   54}
+   {DU  106} {4th 138} {IQ    3} {3rd 188} {RL  100} {AR  110} {RL   82}
+   {UD  121} {NS   96} {4th 379} {DU   29} {NS    9} {BR    9} {4th  29}
+   {4th  19} {3rd  19} {3rd   9} {4th   7} {3rd 224} {AR   92} {3rd 135}
+   {4th  50} {3rd 123} {CQ   79} {BR  118} {IQ    2} {IQ   12} {MI   30}
+   {RR   46} {IQ   37} {3rd 167} {RR   36} {RL   61} {DU   24} {3rd 214}
+   {UD   37} {FR  115} {4th 519} {4th 377} {DR    9} {AR   20} {NO  218}
+   {RL   94} {PO   23} {RR   48} {AR   83} {AR   82} {4th 285} {4th 503}
+   {FR   34} {4th 402} {4th 400} {BR   59} {DL  113} {4th 370} {IQ   25}
+   {AR   29} {4th 189} {1st 219} {4th 357} {NS  122} {IQ    9} {3rd 117}
+   {AR  120} {NO  203} {IQ    7} {1st 436} {NS   27} {4th 159} {FR   56}
+   {RL   56} {IQ   14}
+}

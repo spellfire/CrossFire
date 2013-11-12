@@ -7,7 +7,7 @@ set tempNotes {Always guess realm for Nobody Wins unless they have a magic item 
 Combo:
 Legal Loophole + Master Strategist
 Kelasar Redbelt (lose in battle) + Hijacking = opponent has zero cards, i draw five}
-set tempDeckTitle {thief speed}
+set tempDeckTitle Thieves
 set tempCheckInv No
 set tempInventory {D:/Program Files/CrossFire/Inventory/default.cfi}
 set tempDeckDisplayMode Type

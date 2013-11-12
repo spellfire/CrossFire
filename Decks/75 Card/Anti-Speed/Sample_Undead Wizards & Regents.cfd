@@ -1,0 +1,84 @@
+set tempDeckSize 75AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Find room for holding Civil War because reducing opponent's base level is good for Negative Planar Energy instant kill.
+
+Themes:
+-Make high level undead champs for use with Negative Planar Energy.
+-Anti-Event.
+
+Sub-themes:
+-Discard opponent cards from hand and pool.
+-Make opponents attack with Necba, Curse of the Wolves and/or The Siren so my defensive realms can help in battle.
+
+Play tips:
+-usually play Curse of the Wolves Blood on enemy champ like Hettman unless I need immunity to off magic items for my own champ
+-try not to put more than one magic item on a champion for when No Funny Biz rule comes into play
+-Consider discarding champions from hand at end of turn or to unraze realms if Create Minion and Armor of the High King are in play so that they can be brought back as undead.
+-Drawmij's Instand Summons -> Runes of the Future -> Pelath -> Create Minion -> Armor of the High King -> Negative Planar Energy
+-reincarnate into wizard so Drawmij can copy power
+
+Realms:
+Limit cards an attacker can play.
+
+Champions:
+-Wizards for Bloodstone of Fistandantilus, Arcane Formula for a Lich, & so Drawmij has powers to copy
+-Undead for rule Negative Planar
+-Blood ability and thief skill users
+-Awnshegh for playing Corruption
+-Greyhawk for Johydee's Mask
+
+Allies:
+Instant win or discard cards from hand.  High level for Gib Hcivonad/Negative Planar Energy.  Mostly non-undead so Orb of Delight can retrieve them.
+
+Combos:
+-IQ/070 Reincarnate Necba as a Wizard so Drawmij can copy his power.
+-lose with Starving Artist (preferably with Varney so he can regenerate), then next round play Athasian Sloth to leave opponent with no cards
+-when defending no ally realms (Daggerdale, Urik, Crystal Cave), play Ki-Rin for auto-win
+-when defending no magic item realms (Ur Draxa, Battle-Fens, Celik, Crystal Cave), play Loup-Garou for auto-win
+-Bloodstone of Fistandantilus + Arena of Dori the Barbarian ( + Kanchelsis and/or Negative Planar Energy) = kill champions in pools to steal their powers
+-Tummbutt, put all magic items/artifacts on one champ, then Death Field them or play rule No Funny Biz}
+set tempDeckTitle {Undead Wizards & Regents}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {NS  110} {NS   69} {UD   93} {4th 357} {4th 345} {NS   71} {FR   46}
+   {1st 393} {DU  103} {BR   27} {BR   63} {IQ   70} {4th  71} {IQ    3}
+   {DU   29} {DU   79} {DU   81} {DR   28} {NS  116} {AR   76} {BR   41}
+   {NS   73} {1st 218} {BR  114} {RR  122} {AR   38} {4th 466} {DU  114}
+   {IQ   40} {NS   40} {DU   82} {AR   96} {4th  32} {4th  41} {4th   7}
+   {4th  27} {RL   11} {4th 171} {4th 483} {IQ   68} {4th 248} {RL   79}
+   {MI    6} {4th 230} {1st 439} {MI   49} {MI   29} {MI   30} {RR  113}
+   {BR   68} {3rd  84} {AR  117} {NS    7} {DL   56} {FR   56} {1st 437}
+   {3rd 252} {4th 235} {4th 247} {NS  119} {CH   16} {NS  124} {4th  43}
+   {IQ   97} {DU   46} {3rd 105} {RR   28} {4th 461} {4th  50} {CH   29}
+   {IQ    6} {4th 246} {NS   35} {4th 239} {MI    1} {RL   61}
+}
+set tempAltCards {
+   {4th 484} {4th 300} {4th 279} {MI   14} {4th 350} {BR   94} {IQ   16}
+   {DR   29} {UD   98} {IQ   48} {RR   56} {FR  112} {BR  120} {4th 515}
+   {RR  107} {NS   26} {4th 137} {4th 487} {3rd 347} {DU   16} {RR   22}
+   {RR   19} {AR   61} {DL   62} {MI   90} {RR   21} {RL   31} {RR  115}
+   {CQ   61} {4th 271} {4th 275} {BR   89} {DR  124} {4th  65} {MI   87}
+   {NS   70} {AR   62} {BR  107} {RL   22} {RR   27} {RR   24} {RR   20}
+   {PR    2} {DR   31} {1st 420} {BR  110} {DU   25} {BR   26} {DU   19}
+   {4th 112} {4th  98} {4th  89} {4th  85} {4th  80} {RR   26} {IQ    7}
+   {RR    4} {RR   16} {UD  106} {MI   85} {NS   18} {FR   17} {4th  44}
+   {4th  34} {4th  12} {4th   5} {DU   32} {CH   68} {NS   13} {CQ   27}
+   {RR  109} {DL  118} {NS   83} {4th 362} {UD   45} {BR    3} {DU   95}
+   {4th 393} {CQ   63} {FR  107} {IQ   79} {CQ   11} {BR   59} {DU  104}
+   {PO   51} {4th 376} {4th 377} {3rd 348} {BR   61} {DU   23} {CH   25}
+   {BR   58} {RL   49} {4th 370} {DR    5} {CH    5} {IQ   17} {4th 389}
+   {NS   93} {4th 312} {RL    9} {RL    7} {RL    6} {RL    1} {RR   77}
+   {RL   15} {AR   87} {FR   43} {AR   98} {4th 520} {RR  104} {DL  113}
+   {CH   59} {1st 152} {CQ   16} {4th 266} {4th 265} {4th 453} {NS   49}
+   {MI   20} {NS   97} {CQ   24} {DU   48} {DL   63} {NS  112} {IQ   14}
+   {DU   51} {1st 422} {BR   65} {DL   39} {3rd  77} {3rd  43} {1st 425}
+   {DR   12} {CQ   73} {NS  125} {NS    5} {MI   89} {3rd 283} {NS   78}
+   {DU   53} {DU  123} {NS   86} {RL   97} {RR  101} {IQ    2} {NS    3}
+   {4th 238} {DU   12} {4th 446} {4th 343} {4th 344} {BR   64} {BR   67}
+   {BR   69} {BR   70} {CH   13} {IQ   83} {BR   37} {BR   39} {BR   43}
+   {4th  16} {MI   18} {4th 199} {CQ   80}
+}

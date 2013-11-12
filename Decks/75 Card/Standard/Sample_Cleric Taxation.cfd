@@ -1,0 +1,49 @@
+set tempDeckSize 75
+set tempInInventory true
+set tempAuthorName SimonDorfman
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Philosophy:
+Kill champions, attack & raze realms.
+
+Realms:
+Birthright for Taxation rule. Last digit of 9 for Lady Luck combo.
+Champs:
+Cleric casters/dragons/AD&D. Flyer/earthwalk. Abyss powers for recycling.
+Combos:
+-A Good Defense + Jerome = retrieve offensive spells.
+-Avanil + Atonement = draw 5 more cards or keep realm in play for win
+-Rengarth Oracle + Lady Luck = put a realm at the top with a high last digit with Rengarth so that Lady Luck gives allows an extra realm can be played into the formation
+-Espionage! + Lady Luck = put a level zero card at the top of opponent's deck so I get to play or at least draw my top card.
+-Marco Volo + Lady Luck/The Fates = either look at my own top card or theirs depending on if i want to draw cards or force them to discard.
+-Ethereal Champion + cast Earthquake in battle = win battle and raze opponents realm}
+set tempDeckTitle {Cleric Battle Taxation}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {DR  112} {4th 101} {IQ   12} {4th 100} {4th  44} {AR   92} {BR    3}
+   {BR    5} {BR    4} {NO    2} {4th  43} {BR  118} {4th  49} {3rd 100}
+   {3rd 319} {3rd  99} {4th 140} {FR  102} {UD   56} {RR   48} {4th 402}
+   {BR   18} {4th 400} {IQ   84} {MI   44} {DR  109} {IQ   14} {1st 422}
+   {RR  116} {IQ   69} {CH   25} {4th  50} {4th 294} {DR  116} {DR   29}
+   {MI   25} {BR   12} {4th 503} {DL   30} {1st 450} {FR    9} {NS    9}
+   {DL   35} {NS   74} {BR  123} {4th 508} {3rd  50} {4th 403} {FR   56}
+   {4th  45} {BR   71} {DU   11} {DR   16} {IQ   43} {MI   43} {AR  100}
+   {4th  40} {DR    9} {BR    9} {DR   24} {NO  201} {FR    3} {DR   30}
+   {DR   85} {4th 268} {4th 481} {4th 283} {4th 284} {4th 354} {CQ   13}
+   {4th  52} {4th 416} {AR  111} {CQ    7} {DL   81} {FR   34}
+}
+set tempAltCards {
+   {1st 362} {CQ   26} {UD  121} {BR   30} {DL   56} {MI   39} {AR   20}
+   {IQ   28} {RR   56} {RR  104} {4th 314} {4th 313} {4th 291} {DL   83}
+   {BR   54} {IQ   42} {RR   55} {1st 436} {IQ    6} {AR  117} {MI   57}
+   {RL   63} {UD   53} {AR  118} {4th 413} {IQ   18} {CH    1} {1st 464}
+   {CH   59} {3rd  63} {PO  112} {DU   70} {4th 137} {PO   19} {UD   52}
+   {BR   84} {RR  121} {DR   78} {RL   61} {4th 189} {BR  125} {DL   85}
+   {4th 401} {4th 405} {IQ   74} {NO  210} {4th  41} {1st 438} {3rd 304}
+   {DU  121} {DR   35} {DU   73} {MI   62} {IQ   30} {4th 520} {DR  115}
+   {DR  101} {FR    4} {1st 457} {4th 510} {4th 162} {1st 401} {DR   36}
+   {1st 427} {UD   61} {4th 456} {4th 171} {4th 411} {RR   77} {DU   24}
+   {RL   56} {AR   82} {DU   16} {IQ   48} {UD  124} {FR   10} {4th 138}
+   {FR  112} {1st 456} {IQ   25} {CQ   55} {4th  46} {BR   10}
+}

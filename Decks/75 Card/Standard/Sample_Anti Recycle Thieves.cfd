@@ -1,0 +1,34 @@
+set tempDeckSize 75
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {anti recycle deck
+
+Magic Items:
+No (or few) magic items because of sand golem ally.
+
+Combos:
+Elyk the Bard ignored Doomgrinder so The Fates can be played.}
+set tempDeckTitle {Anti-Recycle Thieves}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {CQ    2} {CQ    4} {DU   54} {NS  125} {CH    5} {DU  103} {CQ   48}
+   {CQ   34} {CQ   12} {MI   54} {1st 422} {RR  116} {DU  114} {CQ   73}
+   {IQ   42} {NS    3} {NS   28} {NS   32} {NS   33} {NS   35} {NS   36}
+   {NS   45} {DU  124} {MI   74} {4th 144} {IQ   48} {DU   16} {3rd 210}
+   {BR  123} {NS   74} {4th 159} {4th 135} {FR  102} {3rd  99} {DU   82}
+   {CQ   16} {CQ   14} {MI   26} {IQ   96} {DU   86} {NS   63} {IQ   67}
+   {NS   34} {DU   40} {CQ   57} {CQ   59} {IQ   78} {CH   68} {UD  106}
+   {UD  107} {UD  105} {CH   59} {UD    1} {UD    3} {UD    6} {UD    7}
+   {UD    8} {NS    8} {UD    5} {IQ    5} {RL   22} {NS   31} {DU  108}
+   {MI   75} {1st 428} {4th 125} {MI   21} {IQ   40} {3rd 172} {PO   23}
+   {NS   18} {MI   20} {DU   85} {MI   18} {4th 500} {1st  61}
+}
+set tempAltCards {
+   {CH   61} {IQ   25} {DU  100} {PO  119} {DU    1} {RL   15} {4th  30}
+   {DR  124} {RL   97} {DU   22} {3rd  29} {4th   2} {RR    3} {RR   16}
+   {RR   11} {IQ    9} {DU   32} {BR    8} {IQ   68} {CH   18} {CH   46}
+   {DU   88} {DU   84} {CH   25} {DU   13} {1st 430}
+}

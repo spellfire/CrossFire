@@ -26,7 +26,7 @@ Rules:
 http://oracle.wizards.com/scripts/wa.exe?A2=ind0202C&L=SPELLFIRE-L&P=R2751&I=-3
 He's awesome, just as good as Tithian if not better...
 -Must discard a realm from play (not from hand) for Drawsemaj to come into play.}
-set tempDeckTitle {Tough Champions Blood Battle}
+set tempDeckTitle {Tough Champs Blood Battle}
 set tempCheckInv No
 set tempInventory {C:/Program Files/CrossFire/Inventory/default.cfi}
 set tempDeckDisplayMode Type

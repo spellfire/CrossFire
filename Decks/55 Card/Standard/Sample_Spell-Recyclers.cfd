@@ -16,7 +16,7 @@ Speed. FR for Mulmaster.
 
 Play tips:
 -play Geneva Conclave on front realm, then play Siege (combo doesn't work once A Good Defense is in play)}
-set tempDeckTitle SD's-Spell-Recyclers
+set tempDeckTitle Spell-Recyclers
 set tempCheckInv No
 set tempInventory {C:/Program Files/CrossFire/Inventory/default.cfi}
 set tempDeckDisplayMode Type

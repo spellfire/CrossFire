@@ -1,0 +1,56 @@
+set tempDeckSize 75AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Look for more sure thing cards.
+
+Deck Philosophy: No Chase cards because of Gib Remuab (Thrice Hearty Cup of Balder the Red).  Greyhawk World War.
+
+Note: Chase card=card number ending in "of 20" or "of 25"
+
+Combos:
+-A Good Defense + Mebhaigl Surge or Jerome to retrieve offensive spells.
+-Servants of Faith + Elemental Swarm
+
+Play tips:
+-Reincarnate to bring Gib Remuab or Jerome into play.
+-Have Kiri raze realms and cast disintegrate/estate transference from discards instead of spoils.  Or have her retrieve rule card and put it back into play.
+
+Champs: Wizard and Cleric Casters.  Many clerics for discarding to bring out Lady of Fate.  Good battle powers.
+-Spellfire Citadel + Ancient Arms of the Shield Lands = unraze extra realms each turn
+
+Wizard & Cleric Spells:
+Focus on spells that will win in battle so Rule Spell Book of Drawmij can keep them in play.}
+set tempDeckTitle {Greyhawk Spellcasters Battle}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {4th 452} {BR   63} {IQ   25} {AR   81} {CQ   54} {4th 283} {DU   45}
+   {PO   42} {DU    6} {IQ   48} {DU   70} {FR   56} {FR   34} {UD   56}
+   {IQ   29} {NO  218} {IQ   28} {IQ   84} {MI   44} {RR   47} {1st 134}
+   {1st 136} {3rd 117} {3rd 134} {3rd 136} {4th  16} {DU   31} {IQ    9}
+   {4th  23} {4th 189} {FR   29} {4th 186} {NS   74} {DR   65} {4th 159}
+   {RR   36} {3rd 167} {1st 393} {1st 437} {CH   23} {IQ   40} {IQ    1}
+   {NS    1} {DR    5} {4th 504} {3rd 135} {UD   52} {MI   43} {4th 400}
+   {4th 402} {DL   81} {FR   33} {BR  125} {FR  112} {DL   85} {MI   39}
+   {RR   48} {AR   27} {CQ   44} {3rd  60} {IQ   32} {DU  117} {FR  101}
+   {4th 258} {UD   93} {DU   53} {MI    6} {UD  103} {DR   37} {4th 257}
+   {CH   27} {AR   76} {4th 135} {PO    5} {RR  121} {4th 137}
+}
+set tempAltCards {
+   {DR  110} {MI   63} {1st 157} {CH   16} {UD  125} {RR   48} {DU   10}
+   {DL  121} {3rd 171} {DU   25} {AR   38} {4th 500} {4th 192} {PO  112}
+   {RR   92} {3rd 397} {MI   82} {BR   59} {UD   40} {4th 394} {IQ   39}
+   {4th 413} {AR  117} {AR   79} {IQ   68} {DU  102} {IQ   65} {DU   71}
+   {4th 284} {NS   48} {IQ   23} {UD   63} {UD   51} {RL   61} {RL   33}
+   {CQ   11} {4th 196} {UD   31} {1st 412} {RR   55} {4th 378} {4th 384}
+   {RL   49} {4th 377} {DR   60} {1st 420} {FR  117} {4th 421} {FR    4}
+   {BR   57} {FR  102} {4th 162} {3rd 159} {4th  89} {4th  87} {4th  86}
+   {4th  84} {4th  83} {3rd 209} {DU  103} {1st 450} {RR  116} {1st 422}
+   {4th  26} {4th  19} {4th  18} {NS   53} {FR   42} {DL   56} {BR   34}
+   {AR   26} {1st  99} {AR   65} {3rd 216} {1st 216} {NO  199} {RR    1}
+   {DU   95} {3rd 155} {3rd 166} {3rd 164} {3rd  63} {RR   28} {3rd 189}
+   {3rd 268} {UD   61} {CQ    7} {PO   48} {3rd  69} {RL   29} {DU  112}
+   {CH   25} {4th 411} {BR  107} {CH   26} {4th 520}
+}

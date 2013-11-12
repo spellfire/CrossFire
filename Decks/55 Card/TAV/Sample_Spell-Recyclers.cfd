@@ -13,7 +13,7 @@ Champions:
 
 Realms:
 Speed. FR for Mulmaster.}
-set tempDeckTitle SD's-Spell-Recyclers
+set tempDeckTitle Spell-Recyclers
 set tempCheckInv No
 set tempInventory {C:/Program Files/CrossFire/Inventory/default.cfi}
 set tempDeckDisplayMode Type

@@ -2,8 +2,8 @@ set tempDeckSize 55
 set tempInInventory true
 set tempAuthorName {Simon Dorfman}
 set tempAuthorEmail simon@simondorfman.com
-set tempNotes 
-set tempDeckTitle {dragon flyers and spellcasters speed deck}
+set tempNotes {}
+set tempDeckTitle {Dragon Spellcasters}
 set tempCheckInv No
 set tempInventory {D:/Program Files/CrossFire/Inventory/default.cfi}
 set tempDeckDisplayMode Type

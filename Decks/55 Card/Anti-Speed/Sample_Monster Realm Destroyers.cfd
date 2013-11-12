@@ -28,7 +28,7 @@ Fighting Dirty!
 Ruling links:
 http://oracle.wizards.com/scripts/wa.exe?A2=ind0006D&L=spellfire-l&P=R529
 http://oracle.wizards.com/scripts/wa.exe?A2=ind9903D&L=spellfire-l&D=0&P=4455}
-set tempDeckTitle {Monster Realm Destroyers - April 2013 Tournament}
+set tempDeckTitle {Monster Realm Destroyers}
 set tempCheckInv No
 set tempInventory /Applications/CrossFire/Inventory/default.cfi
 set tempDeckDisplayMode Type

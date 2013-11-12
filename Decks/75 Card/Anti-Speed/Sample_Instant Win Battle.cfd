@@ -1,0 +1,57 @@
+set tempDeckSize 75AS
+set tempInInventory true
+set tempAuthorName {Simon Dorfman}
+set tempAuthorEmail simon@simondorfman.com
+set tempNotes {Philosophy:
+Instant win champs, attack champs in pool directly via Arena.
+
+Champions:
+Instantly win (but are not instantly defeated like Living Scroll and King of the Elves). AD&D for artifacts.  Dragons for Orb of GreenDragonkind.
+
+Combos:
+-Stryck + Wand of Orcus = pick low level defender for auto-win
+-Jacqueline Renier + Whip of Disarming = attack non-spellcaster for auto-win
+-Sword and Helm on Undead Htimsen so any Psionicist that defends is defeated
+-Arena, then attack flyer with Gloriana discards them, or attack undead with Corpse Dragon discards them, or attack a non-cleric, -psionicist, -hero and attack Sword and Helm to discard him also.
+-Corpse Dragon + Arena = kill an undead
+ruling here:
+http://oracle.wizards.com/scripts/wa.exe?A2=ind0412C&L=spellfire-l&P=R1064
+Dragon Hatching can kill Dragons by attacking them too.}
+set tempDeckTitle {Instant Win Battle}
+set tempCheckInv No
+set tempInventory /Applications/CrossFire/Inventory/default.cfi
+set tempDeckDisplayMode Type
+set tempDeck {
+   {PO   58} {PO   60} {PO   17} {1st 462} {4th 456} {4th 520} {DL   56}
+   {DU  102} {FR   56} {IQ   13} {BR  120} {IQ   65} {3rd  99} {FR  102}
+   {IQ    2} {IQ    3} {NS    7} {NS   18} {UD  106} {UD    6} {MI   89}
+   {BR   34} {RL   88} {1st 443} {1st 425} {CH   68} {3rd 206} {AR   27}
+   {DU   22} {PO    9} {RR  116} {1st 422} {CQ   46} {RL   94} {4th 384}
+   {4th 461} {CQ   26} {DU   70} {UD   82} {IQ    7} {1st 393} {1st 437}
+   {NS  124} {RR  122} {NS  125} {UD  121} {DU   71} {4th  70} {4th 171}
+   {BR   94} {4th 162} {NS   32} {1st 457} {NS   48} {IQ   83} {BR   63}
+   {IQ   61} {4th 382} {BR   46} {DU   29} {BR   27} {DU   81} {DU   79}
+   {BR   41} {4th 466} {4th  43} {BR  114} {CH    5} {DL   39} {DU  103}
+   {IQ   78} {IQ   48} {DR   28} {RL   11} {UD   98} {PO   10}
+}
+set tempAltCards {
+   {1st 440} {RR  121} {3rd 167} {NS  122} {BR  116} {4th 246} {1st 439}
+   {CQ   33} {CQ   43} {IQ   68} {FR  112} {NS  106} {4th  23} {4th  33}
+   {4th  49} {RR    7} {NO  218} {MI   25} {4th 186} {4th  13} {4th  53}
+   {4th  54} {RR   16} {DU   32} {4th  36} {UD    9} {CQ   42} {NS  124}
+   {DU  116} {4th 178} {IQ   54} {MI    6} {AR   72} {4th 312} {AR   62}
+   {DL  110} {UD  105} {1st 442} {4th  65} {RR   17} {IQ    4} {DR  124}
+   {RR   64} {PO    5} {1st 419} {UD   15} {IQ   14} {IQ    6} {DU   24}
+   {DU  114} {FR  117} {UD   32} {CQ   63} {1st 424} {DR   89} {PO  108}
+   {DR   75} {AR   89} {DR  106} {3rd 400} {RR  104} {UD    2} {1st 429}
+   {CH   59} {UD    7} {UD    8} {UD    5} {UD    4} {IQ    5} {RR    5}
+   {CQ   74} {CH   16} {RL   61} {PO   62} {PO   28} {PO   26} {4th 182}
+   {3rd 298} {IQ   67} {4th 514} {DR   36} {IQ   44} {4th 137} {CQ   80}
+   {3rd 196} {RL   89} {DR  116} {1st 408} {RR   12} {DU  104} {IQ   70}
+   {1st 219} {RR  125} {DR   22} {4th 157} {RR   37} {1st 456} {FR  118}
+   {BR   68} {BR   65} {BR   64} {4th 345} {IQ   16} {BR  110} {BR   91}
+   {BR   89} {4th 357} {4th 326} {4th 324} {CQ   24} {MI   29} {BR   39}
+   {1st 399} {1st 401} {FR    4} {NS   25} {PO   37} {RR   55} {1st 428}
+   {RR   56} {NS  123} {4th 508} {DR  108} {RR    4} {NS   73} {4th 334}
+   {AR   38} {IQ   17} {PO   23}
+}

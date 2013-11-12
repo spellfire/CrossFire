@@ -2,9 +2,7 @@ set tempDeckSize 55
 set tempInInventory true
 set tempAuthorName SimonDorfman
 set tempAuthorEmail simon@simondorfman.com
-set tempNotes {Add POL killer!
-
-Philosophy:
+set tempNotes {Philosophy:
 Kill champions, attack & raze realms.
 
 Realms:
@@ -17,9 +15,8 @@ Combos:
 -Rengarth Oracle + Lady Luck = put a realm at the top with a high last digit with Rengarth so that Lady Luck gives allows an extra realm can be played into the formation
 -Espionage! + Lady Luck = put a level zero card at the top of opponent's deck so I get to play or at least draw my top card.
 -Marco Volo + Lady Luck/The Fates = either look at my own top card or theirs depending on if i want to draw cards or force them to discard.
--Ethereal Champion + cast Earthquake in battle = win battle and raze opponents realm
-}
-set tempDeckTitle {Cleric Battle Taxation 5.0}
+-Ethereal Champion + cast Earthquake in battle = win battle and raze opponents realm}
+set tempDeckTitle {Cleric Battle Taxation}
 set tempCheckInv No
 set tempInventory /Applications/CrossFire/Inventory/default.cfi
 set tempDeckDisplayMode Type

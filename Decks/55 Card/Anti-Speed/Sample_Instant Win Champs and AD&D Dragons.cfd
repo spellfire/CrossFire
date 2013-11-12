@@ -19,9 +19,8 @@ Combos:
 -Put Orb of Green Dragonkind on an instant defeat champ and copy Stryck's power to choose defender.
 -Sword and Helm on Undead Htimsen so any Psionicist that defends is defeated
 -Arena, then attack flyer with Gloriana discards them, or attack undead with Corpse Dragon discards them, or attack a non-cleric, -psionicist, -hero and attack Sword and Helm to discard him also.
--living wall + ego coin + quill pen, copy bilago's power makes him almost unstoppable
-}
-set tempDeckTitle {Instant Win AD&D Dragons}
+-living wall + ego coin + quill pen, copy bilago's power makes him almost unstoppable}
+set tempDeckTitle {Instant Win Champs and AD&D Dragons}
 set tempCheckInv No
 set tempInventory /Applications/CrossFire/Inventory/default.cfi
 set tempDeckDisplayMode Type
