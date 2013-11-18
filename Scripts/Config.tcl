@@ -148,7 +148,7 @@ namespace eval Config {
     set config(ComboMan,autoSaveTime) 5
     set config(ComboMan,recent) {}
     set config(ComboMan,printCardText) "Yes"
-    set config(ComboMan,embedCardView) "No"
+    set config(ComboMan,embedCardView) "Yes"
     set config(ComboMan,embedCardViewV) "Yes"
 
     #
@@ -189,7 +189,7 @@ namespace eval Config {
     set config(DeckIt,autoSaveTime) 5
     set config(DeckIt,recent) {}
     set config(DeckIt,championMode) "Class"
-    set config(DeckIt,embedCardView) "No"
+    set config(DeckIt,embedCardView) "Yes"
     set config(DeckIt,selectSash) 0.2
     set config(DeckIt,deckSash) 0.6
     set config(DeckIt,geometry) ""
@@ -208,7 +208,7 @@ namespace eval Config {
     set config(FanSetEditor,dir) [file join $CrossFire::homeDir "FanSets"]
     set config(FanSetEditor,setID) [lindex [CrossFire::CardSetIDList fan] 0]
     set config(FanSetEditor,autoSave) 1
-    set config(FanSetEditor,embedCardView) "No"
+    set config(FanSetEditor,embedCardView) "Yes"
 
     #
     # Launcher Options
@@ -268,7 +268,7 @@ namespace eval Config {
         +/- {Search Engine (+/-)}
     }
     set config(Searcher,searchMode) "+/-"
-    set config(Searcher,embedCardView) "No"
+    set config(Searcher,embedCardView) "Yes"
     set config(Searcher,geometry,3) "600 350"
     set config(Searcher,sashLoc,3) "0.25 0.75"
     set config(Searcher,geometry,4) "850 350"
@@ -380,7 +380,7 @@ namespace eval Config {
     set config(Warehouse,autoSaveTime) 5
     set config(Warehouse,recent) {}
     set config(Warehouse,listDisplayMode) "normal"
-    set config(Warehouse,embedCardView) "No"
+    set config(Warehouse,embedCardView) "Yes"
 
     variable displayModes
     foreach {mode modeLabel} {
