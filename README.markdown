@@ -1,4 +1,4 @@
-﻿![Online Chat icon](https://raw.github.com/spellfire/CrossFire/master/Graphics/Cards/FR/004.jpg) ![Online Chat icon](https://raw.github.com/spellfire/CrossFire/master/Graphics/Cards/1st/456.jpg) ![Online Chat icon](https://raw.github.com/spellfire/CrossFire/master/Graphics/Cards/1st/442.jpg)
+﻿![Online Chat icon](https://raw.github.com/spellfire/CrossFire/master/Graphics/Cards/1st/456.jpg) ![Online Chat icon](https://raw.github.com/spellfire/CrossFire/master/Graphics/Cards/1st/442.jpg)
 
 # CrossFire
 CrossFire is free desktop software (for Windows, Mac and Linux) for playing the game of Spellfire online in real-time (and for other Spellfire related activities like building decks, organizing card collections and more).
