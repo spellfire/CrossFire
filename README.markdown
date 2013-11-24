@@ -53,7 +53,7 @@ If you get an error like this:
 
 ...try one of these options:
 
-1. go to "C:\TC\BIN" Directory -> Right-click on each executable (.exe) file -> click on Property -> click on Compatibility Tab -> Under Privilege Level, check on "Run this program as an administrator".
+1. go to "C:\Tcl\bin" Directory -> Right-click on wish84.exe -> click on Property -> click on Compatibility Tab -> Under Privilege Level, check on "Run this program as an administrator".
 2. Disable UAC (User Account Control) as described here: [http://windows.microsoft.com/en-us/windows-vista/turn-user-account-control-on-or-off](http://windows.microsoft.com/en-us/windows-vista/turn-user-account-control-on-or-off)
 
 ## Troubleshooting Windows Vista ActiveTcl Install
