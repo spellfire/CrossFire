@@ -933,8 +933,8 @@ proc Print::Card {w card args} {
     }
 
     if {$mode == "bbc"} {
-        append out "\n\[url=\"http://simondorfman.com/Games/Spellfire/Cards/"
-        append out "$setID/$cardNum.gif\"\]$CrossFire::setXRef($setID,name)"
+        append out "\n\[url=\"https://raw.github.com/spellfire/CrossFire/master/Graphics/Cards/"
+        append out "$setID/$cardNum.jpg\"\]$CrossFire::setXRef($setID,name)"
         foreach {cardID cardNum setMax} \
             [CrossFire::GetCardID $setID $cardNumber] break
         append out " \#$cardNum of $setMax"
