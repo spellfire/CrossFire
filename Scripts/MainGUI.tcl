@@ -405,7 +405,7 @@ proc CrossFire::Create {} {
             $w.buttons create text $X $Y -tags helpString -anchor n \
                 -fill $helpColor
             $w.buttons itemconfigure helpString \
-                -font "[$w.buttons itemcget helpString -font] 14 bold"
+                -font "[$w.buttons itemcget helpString -font] bold"
 
             if {![info exists config(Skin,Y,helpString)]} {
                 # Add Height of text string if not placed by skin
